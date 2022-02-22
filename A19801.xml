@@ -1,0 +1,1542 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon preached before His Maiestie at Whitehall, on Easter day last. 1618. By the Bishop of Elie, His Maiesties almoner</title>
+            <author>Andrewes, Lancelot, 1555-1626.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1618</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 74 KB of XML-encoded text transcribed from 27 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A19801</idno>
+            <idno type="STC">STC 623</idno>
+            <idno type="STC">ESTC S100192</idno>
+            <idno type="EEBO-CITATION">99836042</idno>
+            <idno type="PROQUEST">99836042</idno>
+            <idno type="VID">285</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A19801)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 285)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1475-1640 ; 733:03)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon preached before His Maiestie at Whitehall, on Easter day last. 1618. By the Bishop of Elie, His Maiesties almoner</title>
+                  <author>Andrewes, Lancelot, 1555-1626.</author>
+               </titleStmt>
+               <extent>[4], 51, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Iohn Bill,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>M.DC.XVIII. [1618]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Bishop of Elie = Lancelot Andrewes.</note>
+                  <note>Initial leaf contains large signature-mark "A" with part of a woodcut frame.</note>
+                  <note>Signatures Aa and Bb are in one of two settings. P. 1, line 6 ends: (1) "should" or (2) "hap-"; p. 7, line 8 ends (1) "Hoc" or (2) "plaine".</note>
+                  <note>Also issued as part 3 of the collection of sermons without general title page (STC 624.5) commencing with "The copie of the sermon preached on Good-Friday before the Kings Maiestie".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-02</date>
+            <label>Simon Charles</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>Simon Charles</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:285:1" rendition="simple:additions"/>
+            <pb facs="tcp:285:1" rendition="simple:additions"/>
+            <p>A SERMON PREACHED before His Maieſtie At Whitehall, on Eaſter
+day laſt. 1618.</p>
+            <p>By the Biſhop of Elie, His Maieſties Almoner.</p>
+            <p>LONDON Printed by IOHN BILL, M.DC.XVIII.</p>
+         </div>
+         <div type="epigraph">
+            <pb facs="tcp:285:2"/>
+            <bibl>I. Corinth. Cap. XI. Verſ.
+xvi.</bibl>
+            <q>Si quis autem videtur conten<g ref="char:EOLhyphen"/>tioſus eſſe: nos talem
+conſuetudi<g ref="char:EOLhyphen"/>nem non habemus, neque Eccle<g ref="char:EOLhyphen"/>ſiae DEI.</q>
+            <q>
+               <hi>But if any man ſeeme to be conten<g ref="char:EOLhyphen"/>tious, we haue no ſuch
+cuſtome, neither the Churches of God.</hi>
+            </q>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:285:2"/>
+            <div type="introduction">
+               <p>
+                  <seg rend="decorInit">T</seg>HIS is no Eaſter Text, as wee are wont to haue: Nothing of
+the Re<g ref="char:EOLhyphen"/>ſurrection in it. It is not for the day.</p>
+               <p>
+                  <note place="margin">1 How the Text may ſerue for
+Ea<g ref="char:EOLhyphen"/>ſter.</note>It is not, not directly: But if it ſhould happen there were
+any <hi>co<g ref="char:cmbAbbrStroke">̄</g>tention</hi> about <hi>Ea<g ref="char:EOLhyphen"/>ſter,</hi> that would bring it within
+the word <hi>contentious</hi> here. Specially, if that <hi>contention</hi>
+about <hi>Eaſter</hi> were, whether it hath bene euer a <hi>cuſtome</hi> in
+the <hi>Church of God;</hi> for that would bring it within the word
+<hi>cuſtome,</hi> here mentioned: And ſo would it both wayes fall, within
+the compaſſe of the Text. The <hi>cuſtome</hi> of <hi>Eaſter</hi> made
+a <hi>conten<g ref="char:EOLhyphen"/>tion,</hi> would make it an <hi>Easter</hi> day Text.</p>
+               <p>
+                  <note place="margin">The Text two wayes qualified.</note>I ſay
+not, any ſuch <hi>contention</hi> there is: I deſire to proceed (as the
+Apoſtle doeth) without the leaſt offence.<note n="1" place="margin">
+                     <hi>Videtur</hi> Seemes.</note>He ſaith not, there be any
+<hi>contentious;</hi> but, <hi>if any ſeeme to<pb n="2" facs="tcp:285:3"/>be.</hi> That
+any <hi>bee contentious,</hi> it may not bee ſaid. They will deeply
+proteſt, that from their hearts they abhorre all <hi>contentions,</hi> and
+deſire to walke peaceably. Bee not, then: but, <hi>ſeeme to be.</hi>
+               </p>
+               <p>
+                  <note n="2" place="margin">
+                     <hi>Si quis</hi> If any.</note>Nay, not
+<hi>ſeeme to be,</hi> neither: S. <hi>Paul</hi> ſayes not ſo much:
+ſayes onely, <hi>Si quis, If any;</hi> puts but a caſe, (and there is no
+harme in that.) No more will we goe no further, then the Text: <hi>If any
+ſuch ſeeme to be;</hi> this Text tells what to doe: If none be, none
+<hi>ſeeme to bee,</hi> it is but a caſe put. 
+<note place="margin">All vpon ſup<g ref="char:EOLhyphen"/>poſition.</note>And ſo, by
+way of ſuppoſition, be all ſaid, that ſhalbe.</p>
+               <p>
+                  <note place="margin">The Diuiſion.</note>Vpon the view, three
+points giue forth themſelues. <hi rend="sup">1</hi>Here are <hi>co<g ref="char:cmbAbbrStroke">̄</g>tentious:</hi> and <hi rend="sup">2</hi>here are
+<hi>customes;</hi> and <hi rend="sup">3</hi>
+                  <hi>customes,</hi> oppoſed to the
+<hi>contentious.</hi> Theſe, the three heads.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">point </seg>1</label>
+                  <note place="margin">Contentions.</note>To breake them yet further, into cer<g ref="char:EOLhyphen"/>taine
+<hi>Theſes</hi> or propoſitions, to proceed by. <hi rend="sup">1</hi>Firſt it ſhould
+ſeeme, there were <hi>contenti<g ref="char:EOLhyphen"/>ons</hi> in the Apoſtles times.
+<hi rend="sup">2</hi>
+                  <hi>Contentions,</hi> a<g ref="char:EOLhyphen"/>bout what? About matter of circum<g ref="char:EOLhyphen"/>ſtance. So was
+this here, Whether <hi>men</hi> were to <hi>pray vncouered,</hi> and <hi>women
+veiled,</hi> or no? <hi rend="sup">3</hi>And that there were, which did not one<g ref="char:EOLhyphen"/>ly
+<hi>contend,</hi> but (which is more) were euen<pb n="3" facs="tcp:285:3"/>
+                  <hi>contentious</hi> about theſe. <hi rend="sup">4</hi>For thoſe that were ſo, here
+is a <hi>ſi quis</hi> ſet vp, <hi>If any ſeeme to be</hi> ſuch, what to
+doe to them.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">point </seg>2</label> Not to paſſe them in
+ſilence, and ſay no<g ref="char:EOLhyphen"/>thing to them: But this to ſay: <hi>Wee haue no
+ſuch cuſtome, nor the Churches of God.</hi> And ſo oppoſe the
+<hi>Churches custome</hi> to <hi>contention.</hi>
+               </p>
+               <p>
+                  <note place="margin">The <hi>Church customes.</hi>
+                  </note>In which
+ſaying, there are theſe heads. Firſt, that <hi>the Church</hi> hath her
+<hi>cuſtomes.</hi> 
+                  <hi rend="sup">2</hi>As ſhe hath them, ſo ſhe may, and doth alledge
+them. <hi rend="sup">3</hi>And alledge them finally, (as the Apoſtie here, wee ſee,
+reſolueth the whole matter into them, as into a finall reſolu<g ref="char:EOLhyphen"/>tion.) <hi rend="sup">4</hi>And
+all this, by Scripture confir<g ref="char:EOLhyphen"/>med: euen by this Scripture: on which, the
+<hi>cuſtomes</hi> of the <hi>Church</hi> are grounded, &amp; the power that
+ſhall be euer in them, to ouer<g ref="char:EOLhyphen"/>rule the <hi>contentious.</hi>
+               </p>
+               <p>
+                  <note place="margin">
+                     <hi>Non habemus talem,</hi> Matth. 12 39. The
+Text the laſt yeere. Negatiue in ſhew; Affirmatiue, in effect.</note>And
+let not this moue you, that it ſeems to be negatiue, <hi>Non habemus
+talem.</hi> As, (this time twelue month) <hi>Non dabitur niſi</hi> (a
+ne<g ref="char:EOLhyphen"/>gatiue in ſhew) proued an affirmatiue, <hi>Da<g ref="char:EOLhyphen"/>bitur, ſed nonniſi:</hi>
+So will this <hi>Non habemus talem,</hi> prooue to <hi>Habemus, ſed non
+talem. Cu<g ref="char:EOLhyphen"/>ſtome</hi> we haue, but <hi>none ſuch.</hi> To apply it to the
+Apoſtles purpoſe: <hi>None,</hi> to <hi>ſit coue<g ref="char:EOLhyphen"/>red<pb n="4" facs="tcp:285:4"/>at
+prayer, Non talem, None ſuch;</hi> But the contrary, rather; To <hi>bee
+vncouered</hi> then, <hi>talem, Such is our cuſtome; Such</hi> a one, the
+<hi>Church hath.</hi>
+               </p>
+               <p>
+                  <note place="margin">The Two markes of a right
+<hi>custome.</hi>
+                  </note>Where, becauſe the negatiue referrs not to
+<hi>habemus,</hi> but to, <hi>talem;</hi> And, a <hi>cuſtome</hi> is not
+therefore good, becauſe we haue it, but becauſe it is <hi>talem,</hi> ſo
+qualified; The <hi>talem</hi> to be: 
+<note place="margin">1</note>Firſt, <hi>If we</hi> (that is) the
+Apo<g ref="char:EOLhyphen"/>ſtles haue had it, if it were Apoſtolique: The <hi>non talem</hi> to
+bee, if our new Maſters haue taken it vp the other day, and the A<g ref="char:EOLhyphen"/>poſtles
+neuer knew it. <hi rend="sup">2</hi>The <hi>talem</hi> to be, <hi>if the Churches of God</hi> in
+generall haue had it, if it be catholique. The <hi>non talem</hi> to be, if the
+Church of <hi>Corinth,</hi> or ſome one Church perhaps had it, but the reſt
+neuer had any ſuch.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">point </seg>3</label>
+                  <note place="margin">The
+<hi>Church-cuſtome</hi> for keeping <hi>Ea<g ref="char:EOLhyphen"/>ſter.</hi>
+                  </note>Then, will we
+deſcend to ſhew the kee<g ref="char:EOLhyphen"/>ping of Eaſter, to be ſuch: Euer in vſe with
+the <hi>Churches of God,</hi> from the time of the Apoſtles themſelues.
+Which, if wee can make plaine, here is a plaine Text for it: That, if one
+ſhould aske, What Scripture haue you, why Eaſter may not be laide downe? It
+may well be anſwered, <hi>Non ha<g ref="char:EOLhyphen"/>bemus<pb n="5" facs="tcp:285:4"/>talem
+conſuetudinem, nec Eccleſiae Dei. Custome</hi> to keepe it, we haue; the
+Apoſtles, the <hi>Church</hi> had it: but to aboliſh it, <hi>ſuch
+cu<g ref="char:EOLhyphen"/>ſtome haue we none;</hi> wee depart from them both, if we doe.</p>
+               <p>
+                  <note place="margin">There wants not Scripture for
+<hi>Eaſter.</hi>
+                  </note>Proteſting yet, that wee haue no pur<g ref="char:EOLhyphen"/>poſe to waiue
+Scripture quite, for the kee<g ref="char:EOLhyphen"/>king of <hi>Eaſter.</hi> Saint
+<hi>Auguſtine</hi> is plaine, <hi>Hoc ex authoritate diuinarum Scripturarum,
+per anniuer ſarium Paſcha celebratur.</hi>
+                  <note place="margin">
+                     <hi>Epiſt.</hi> 119. <hi>cap.</hi> 14.</note> Euen by authoritie
+of diuine Scriptures it is, that e<g ref="char:EOLhyphen"/>uery yeere, <hi>Eaſter</hi> is kept
+ſolemnely. Wee haue touched two Scriptures heretofore: <hi>The day, which the
+Lord hath made</hi> (118. <hi>Pſal.</hi>)<note place="margin">Pſal.
+118.24.</note> applied euer to this Feaſt. That Text for the Old. And for the
+New Teſtament, that verſe in this Epiſtle, <hi>Chriſt our Paſs<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ouer is offered, let vs therefore keepe
+a Feaſt.</hi>
+                  <note place="margin">1. Cor. 5.7.8.</note>
+               </p>
+               <p>
+                  <note place="margin">But the <hi>Chur<g ref="char:EOLhyphen"/>ches cuſtome is</hi> more
+kindly.</note>But euery thing ſtandeth ſafeſt and ſu<g ref="char:EOLhyphen"/>reſt, vpon his
+owne baſe: And the right baſe of this, I take to be <hi>Cuſtome.</hi> Wee
+doe but make our ſelues to be pitied other<g ref="char:EOLhyphen"/>while, when we ſtand wringing
+the Scrip<g ref="char:EOLhyphen"/>tures, to ſtraine that out of them, that is not in them, and ſo
+can neuer come <hi>liquidè</hi> from them: when yet wee haue for the 
+<pb n="6" facs="tcp:285:5"/>ſame point, the <hi>Churches cuſtome</hi> cleare e<g ref="char:EOLhyphen"/>nough.
+And that is enough by vertue of this Text. There is, and ſhall be enough euer
+in this Text, to auow any Cuſtome; The Apoſtles, the <hi>Churches of God,
+had it:</hi> to diſauow any: The Apoſtles, <hi>the Chur<g ref="char:EOLhyphen"/>ches of God, had it
+not.</hi>
+               </p>
+               <p>
+                  <note place="margin">The vſe of the third point a<g ref="char:EOLhyphen"/>bout
+Eaſter.</note>The fruit of our labour will be this (I hope) at leaſt, to
+confirme vs in the kee<g ref="char:EOLhyphen"/>ping of it. Wee keepe <hi>Eaſter,</hi> many of vs, we
+know not vpon what ground. By this, we ſhall ſee, we haue a ground for that
+we doe. We doe no more, then the <hi>Churches of God,</hi> then the Apoſtles
+haue done before vs. So, our eares ſhall heare the voice in <hi>Eſay</hi>
+behinde vs, <hi>Haec eſt via,</hi> This is the way: <hi>Ambulate in
+eâ,</hi> Walke in it;<note place="margin">Eſa. 30.21.</note> as you doe,
+you are in the right, and there hold you.</p>
+            </div>
+            <div n="1" type="part">
+               <p n="1">
+                  <label type="milestone">
+                     <seg type="milestoneunit">point </seg>1</label>
+                  <seg rend="decorInit">I</seg>F <hi>any.</hi> This
+<hi>(if)</hi> I take it, is no idle <hi>if,</hi> no vaine ſuppoſition; to
+ſay, <hi>if there bee any;</hi> where there were none. No:
+<hi>contentions</hi> there were. 
+<note place="margin">I <hi>Contentions</hi> in the Apoſtles
+time.</note>When? when <hi>(wee:)</hi> who be they? S. <hi>Paul</hi> and his 
+<pb n="7" facs="tcp:285:5"/>fellow Apoſtles, when they liued. And <hi>the
+Churches:</hi> what <hi>Churches?</hi> the <hi>Churches</hi> vnder them, of
+their times. In the very prime of the Primitiue Church, then were there
+<hi>Contentions.</hi>
+               </p>
+               <p>And thoſe not with an enemie with<g ref="char:EOLhyphen"/>out (Iew or Gentile) that
+were <gap reason="foreign" resp="#OXF" extent="1 word">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> warre abroad: this is
+<gap reason="foreign" resp="#OXF" extent="1 word">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, but a iarre at home, among
+themſelues. That former (abroad) they repreſent by <hi>Iſmael</hi> and
+<hi>Iſaac,</hi> and they were of two <hi>venters.</hi>
+                  <note place="margin">Gal.
+4.29.</note> This latter (at home) by the two twinnes in <hi>Rebecca's</hi>
+wombe.<note place="margin">Gen. 25.23.</note> (I feare the time: elſe could I
+let you ſee this ſtrife, in euery Church of them.)</p>
+               <p>This I note firſt, that we may not
+<gap reason="foreign" resp="#OXF" extent="1 word">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> (to vſe S. <hi>Peters</hi>
+terme) <hi>thinke it ſtrange,</hi>
+                  <note place="margin">1. Pet. 4.12.</note> it
+there be <hi>contentions</hi> in our times. They ſhal be no ſtrangers with
+vs, in ours: They were not with them in theirs. Neither <hi>co<g ref="char:cmbAbbrStroke">̄</g>
+                     <g ref="char:EOLhyphen"/>tentions,</hi>
+(in this verſe.) Nor <hi>ſchiſmes</hi> (in the next, the 18.) Nor
+<hi>haereſies</hi> (in the 19. next to that) It is of the <hi>fiery
+triall,</hi> S. <hi>Peter</hi> ſpeakes it (of perſecution.) It is as true,
+of the watery triall (of <hi>contention.</hi>) As true it is of the laſt, as
+of the firſt <hi>Church: I prooued thee alſo at the waters of
+ſtrife.</hi>
+                  <note place="margin">Pſal. 81.7.</note> Thoſe waters, the
+waters <pb n="8" facs="tcp:285:6"/>of <hi>Meriba,</hi> will hardly be dreined euer.</p>
+               <p n="2">
+                  <note place="margin">2. <hi>Contentions</hi> a<g ref="char:EOLhyphen"/>bout matter
+of circum<g ref="char:EOLhyphen"/>ſtance.</note>There were <hi>contentions</hi> then: About what?
+For, though peace be precious, yet of ſuch moment may the matters bee, as
+they are to be contended for, yea, euen to the death. For what then were
+theſe? for nothing, but a matter of Rite. <hi>Men pray<g ref="char:EOLhyphen"/>ing,</hi> whether they
+ſhould be <hi>vncouered; wo<g ref="char:EOLhyphen"/>men,</hi> whether <hi>veiled</hi> or
+no.<note place="margin">Verſe 4, 5.</note> For a Hat and a Veile was all this
+adoe. It was not about any the high myſteries, any of the vitall parts of
+Religion, Preaching, Prayer, the Sacraments: Onely, about the manner, how: the
+geſture and behauiour, where<g ref="char:EOLhyphen"/>with: in what ſort, to cary themſelues, at
+Preaching, Prayer, the Sacraments: about matter of circumſtance meerely, and
+no<g ref="char:EOLhyphen"/>thing elſe.</p>
+               <p>And euen theſe, euen the meaneſt things would bee done
+<hi>for the better,</hi> not <hi>for the worſe</hi> (ſaith the Apoſtle in
+the next verſe) And the more order, the better. So the A<g ref="char:EOLhyphen"/>poſtle had ſet
+order for them, and <hi>inter alia,</hi> for this too. Other his ordinances
+(hee ſayeth)<note place="margin">Verſe 2.</note> they remembred well, but not
+this: This was oppoſed. For, with ſome,<pb n="9" facs="tcp:285:6"/>all is not worth a
+ruſh, if they ſee not fur<g ref="char:EOLhyphen"/>ther then their fellowes, nay, their betters,
+then: It they finde not ſomewhat to finde fault with, if it bee but a
+ceremonie. And to picke a quarrell with a ceremonie, is eaſie. A plauſible
+theame, not to burthen the Church with ceremonies: the Church to be free: which
+hath almoſt freed the Church of all decencie.</p>
+               <p n="3">
+                  <note place="margin">3. Yea,
+<hi>contenti<g ref="char:EOLhyphen"/>ouſneſſe,</hi> which is more then contention.</note>About
+ſuch points as theſe, were there, that did not onely contend, but that grew
+<hi>contentious.</hi> 
+                  <gap reason="foreign" resp="#OXF" extent="1 word">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> is one
+thing, to contend: <gap reason="foreign" resp="#OXF" extent="1 word">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> another, to
+bee <hi>contentious.</hi> The A<g ref="char:EOLhyphen"/>poſtle ſaith not, If any contend: but,
+<hi>ſi quis contentioſus.</hi> And <hi>(oſus)</hi> is full.
+<gap reason="foreign" resp="#OXF" extent="1 word">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, is one that loues it, is giuen
+to it. Strange, any ſuch ſhould be. But the Apoſtles <hi>if,</hi> proues
+to be no <hi>if.</hi> We ſee it dayly in perſons, but meanly qualified (God
+wote) yet ſo per<g ref="char:EOLhyphen"/>emptorie, as <hi>if the word of God had come, if not from
+them, yet to them only, and to none beſides.</hi>
+                  <note place="margin">1. Cor.
+14.26.</note> Good Lord! why ſhould any loue to bee <hi>contentious?</hi>
+why? It is the way to be ſome<g ref="char:EOLhyphen"/>body. In time of peace, what reckoning is there
+of <hi>Wat Tiler,</hi> or <hi>Iacke Straw?</hi> make a ſe<g ref="char:EOLhyphen"/>dition, and they
+will beare a braine with <pb n="10" facs="tcp:285:7"/>the beſt. <hi>Primianus</hi> and
+<hi>Maximianus</hi> were the heads of the two factions of <hi>Donatiſts</hi>
+in S. <hi>Auguſtines</hi> time. He ſaith it was wel for them, that faction
+fell out: Elſe, <hi>Primi<g ref="char:EOLhyphen"/>anus</hi> might haue beene <hi>Poſtremianus,</hi>
+and <hi>Maximianus</hi> been <hi>Minimianus,</hi> well enough. But now, in
+ſchiſme, either of them was a iolly fellow, head of a party. This makes, we
+ſhall neuer want <hi>contentious</hi> perſons, and they will take order,
+wee ſhall neuer want contentions.</p>
+               <p n="4">
+                  <note place="margin">4 Such <hi>conten<g ref="char:EOLhyphen"/>tion</hi> not to be
+neglected.</note>Well, if any ſuch ſhould happen to be, what is to bee done
+in ſuch a caſe? What ſaith the Apoſtle? Saith he thus? Seeing it is no
+greater matter, it skilles not greatly whether they doe it or no,
+<hi>couered</hi> or <hi>bare,</hi> ſit or kneele, all's one: ſets it light,
+and lets it goe. No: but calls them backe to the <hi>cuſtome of the
+Church,</hi> will not haue them ſwarue from that; makes a matter of it. For
+wee ſee, hee preſſes the point hard; ſpends many wordes, many verſes,
+euen halfe the Chapter about it.</p>
+               <p>
+                  <note place="margin">Not any <hi>con<g ref="char:EOLhyphen"/>tention.</hi>
+                  </note>Why doth
+he ſo? For two reaſons. <hi rend="sup">1</hi>Firſt, he likes not <hi>contention</hi> at all.
+Why? If it be not taken at the firſt: within a while,<pb n="11" facs="tcp:285:7"/>(within one verſe after) ye ſhall heare of a <hi>ſchiſme,</hi>
+(looke the 18. verſe:) And with<g ref="char:EOLhyphen"/>in a little after that, (looke but to the
+19.) yee ſhall haue a flat <hi>hereſie</hi> of it. The one drawes on the
+other: if the contentious humor be not let out, it wil feſter ſtreight, and
+prooue to an apoſteme.</p>
+               <p>
+                  <note place="margin">No, not in theſe ſmall
+matters.</note>
+                  <hi rend="sup">2</hi>Nor, he likes not the matter, wherfore; (though it ſeeme but
+ſmal) <hi>S. Paul</hi> knew Sa<g ref="char:EOLhyphen"/>thans methode well: he ſeemes ſomewhat
+ſhamefaſt at firſt, askes but ſome ſmall trifle: Giue him but that,
+he will be ready for greater points. If he win ground in the Ceremonies, then
+haue at the Sacrament: If hee can diſgrace the one, it will not be long, but
+hee ſhall heare of him at the o<g ref="char:EOLhyphen"/>ther.</p>
+               <p>
+                  <note place="margin">For from Ce<g ref="char:EOLhyphen"/>remonies to
+Sacraments.</note>Speake I beſide the booke? was it not ſo here? At the
+very next verſe, there he falls in hand with an abuſe of the Sacrament, and
+that takes vp the reſt of the Chapter.</p>
+               <p>For, when they had <hi>ſit couered</hi> at Prayer a while,
+they grew euen as vnreuerent, as homely with the Sacrament: Eate and drunke
+there, as if they had beene at home, <hi>in triclinio,</hi> that the Apoſtle
+is faine to tell<pb n="12" facs="tcp:285:8"/>them (at the 22. verſe) They had
+<hi>homes</hi> to be homely at: the <hi>Church,</hi> the Houſe of God, they
+were to be vſed with greater re<g ref="char:EOLhyphen"/>uerence. <hi>He did not commend them</hi> for
+this their rude cariage, at the Sacrament. <hi>Did not commend them?</hi> you
+know what that meaneth <hi>(minus dicitur, plus intelligitur)</hi> He blamed
+them much for it.</p>
+               <p>Then, are we to make ſtay at theſe leſſe matters at
+firſt, (as the Apoſtle doeth) To thinke the wiſe mans counſell worth
+the following, <hi>Ne ſit tibi minimum, non negligere minima,</hi> Count it
+no ſmall matter, not to neglect ſmall matters. What ſo ſmall as an
+haire? when theſe ſmall haires were gone from <hi>Samſon,</hi> his
+ſtrength left him.<note place="margin">Iudg. 16.19.</note> In it ſelfe, in
+his owne nature, a Rite is not ſo much: This is much; that by it, they learne
+to breake the Churches orders; and that thereby they are fleſhed, to goe on
+to greater matters.</p>
+            </div>
+            <div n="2" type="part">
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">point </seg>2</label> Oppoſing then to theſe, what
+courſe takes he?<note place="margin">To theſe con<g ref="char:EOLhyphen"/>tentions the <hi>Church
+cuſtome oppoſeth.</hi>
+                  </note> Layes for his ground, this, <hi>Non habemus
+talem.</hi> The force of his reaſon is, <hi>If wee, if the Churches of God,
+had any ſuch cu<g ref="char:EOLhyphen"/>ſtome,</hi> it were ſomewhat; that were war<g ref="char:EOLhyphen"/>rant 
+<pb n="13" facs="tcp:285:8"/>enough, for a Rite. But now, we and they both, haue none
+ſuch; nay, wee and they, haue the quite contrary: therefore, let vs heare no
+more of it.</p>
+               <p n="1">
+                  <note place="margin">1. The Church hath her
+cu<g ref="char:EOLhyphen"/>ſtomes.</note>Where, it is plaine, the Apoſtle is for the <hi>Church
+cuſtomes.</hi> 
+                  <hi rend="sup">1</hi>And firſt, that ſhe hath them. Euery Societie, beſide
+their Lawes in bookes, haue their <hi>cuſtomes</hi> alſo in practiſe: and
+thoſe, not to be taken vp, or laid down, at euery mans pleaſure. The Ciuill
+Law ſayth this of cuſtome, <hi>Imo magnae authori<g ref="char:EOLhyphen"/>tatis hoc ius habetur:
+quod in tantum probatum eſt, vt non fuerit ſcripto comprehendere
+ne<g ref="char:EOLhyphen"/>ceſſe.</hi>
+                  <note place="margin">
+                     <hi>Pand.</hi> 1. <hi>Tit.</hi> 3. <hi>de
+legib.</hi> 35.</note> Men (it ſeemes) had a great good li<g ref="char:EOLhyphen"/>king to their
+cuſtomes, that they remem<g ref="char:EOLhyphen"/>bred them without booke, that they neuer needed to
+be put in writing, as their Lawes and Statutes did. Now, as euery Societie:
+ſo the <hi>Church,</hi> beſides her <hi>habemus legem,</hi> hath her
+<hi>habemus conſuetudinem</hi> too. There is ſuch a thing, as <hi>mos
+populi Dei.</hi>
+               </p>
+               <p>And feare not traditions a whit. Thoſe reſpect
+<hi>credenda,</hi> points of doctrine: Theſe, but <hi>agenda,</hi> matter of
+practiſe: And that, not in points of ſubſtance; reach onely to 
+<pb n="14" facs="tcp:285:9"/>matter of circumſtance, goe no further. Nor doe we euen
+them with, much leſſe oppoſe them to, that which is written. Neuer any
+cuſtome, againſt that: No cu<g ref="char:EOLhyphen"/>ſtome, that comes from the will or wit of
+man, againſt Scripture, which comes from the wiſedome and will of God. But,
+<hi>haec oportet facere, &amp; illa non omittere.</hi>
+                  <note place="margin">Mat.
+23.23.</note> Onely ſo.</p>
+               <p n="1">
+                  <note place="margin">The Apoſtles and their Churches had
+their cu<g ref="char:EOLhyphen"/>ſtomes.</note>The <hi>Church</hi> then, <hi>hath her cuſtoms.</hi>
+I adde, theſe <hi>(wee)</hi> heere, (that is) the Apoſtles had them; and
+the Churches vnder them, had theirs. It was but early day then, yet had they
+their <hi>cuſtomes,</hi> euen then. At the writing of this Epiſtle, it was
+not at the moſt 30. yeeres from Chriſts aſcenſion. If that were time
+enough, to make a <hi>cuſtome:</hi> Now after theſe 20. times 30. yeeres,
+and 30. times 30. yeeres, and a 100. yeeres to ſpare, ſhall it not be a
+cuſtome now, by much better right? A cuſtome is ſuſcep<g ref="char:EOLhyphen"/>tible of more
+and leſſe: The further it go<g ref="char:EOLhyphen"/>eth, the longer it runneth: the more
+ſtrength it gathereth, the more gray haires it getteth, the more venerable it
+is: for in<g ref="char:EOLhyphen"/>deede, the more a cuſtome it is.</p>
+               <p n="2">
+                  <pb n="15" facs="tcp:285:9"/>
+                  <note place="margin">2. The Church
+alledgeth her cuſtomes.</note>Now then, as the <hi>Church</hi> hath them,
+ſo ſhee ſtands vpon them: feares not (we ſee) to alledge them, to ſay
+<hi>habemus,</hi> or <hi>non ha<g ref="char:EOLhyphen"/>bemus. Habemus,</hi> to vphold an ancient good
+one: <hi>Non habemus,</hi> to lay downe an euill one, new taken vp.</p>
+               <p>
+                  <note place="margin">In the Nega<g ref="char:EOLhyphen"/>tiue.</note>Heere,
+<hi>negatiuè, Non habemus talem.</hi> As our Sauiour likewiſe, <hi>A
+principio non fuit ſic.</hi>
+                  <note place="margin">Mat. 19.8.</note> And yet, by
+implication, this here is, <hi>One wee haue, but not ſuch a one.</hi> And our
+Saui<g ref="char:EOLhyphen"/>ours there, A way there was <hi>from the begin<g ref="char:EOLhyphen"/>ning,</hi> but this was not
+it.</p>
+               <p>
+                  <note place="margin">In the Affir<g ref="char:EOLhyphen"/>matiue.</note>But otherwhere, it
+is <hi>poſitiuè</hi> alſo, to af<g ref="char:EOLhyphen"/>firme, and to maintaine a good: And
+men poſitiuely referred, to know, what hath beene the vſe in former
+times.</p>
+               <p>
+                  <note place="margin">Hath euer ſo alledged.
+<hi>Moſes.</hi>
+                  </note>Higher then <hi>Moſes</hi> we cannot goe.
+<hi>Mo<g ref="char:EOLhyphen"/>ſes</hi> as a Law-giuer, one would think, would be all for Law. Hee is
+<hi>poſitiue</hi> full, for <hi>cu<g ref="char:EOLhyphen"/>ſtome</hi> too. <hi>Enquire</hi>
+(ſaith hee) <hi>of the dayes that be paſt, how it hath gone: ſince the
+day God created the earth.</hi>
+                  <note place="margin">Deut. 4.12.</note> (And that,
+in the ſecond edition, or ſetting forth of the Law.)</p>
+               <p>
+                  <hi>Iob</hi> is for it too. 
+<note place="margin">Iob 8.8.</note>
+                  <hi>Enquire, I pray you, of the
+former Age, and ſet your ſelues to aske af<g ref="char:EOLhyphen"/>ter the Fathers (for wee are but
+of yeſterday)<pb n="16" facs="tcp:285:10"/>ſhall not they tell you,</hi> thus, and
+thus it was, in their times?</p>
+               <p>
+                  <note place="margin">The Pro<g ref="char:EOLhyphen"/>phets.</note>And, ſay not the
+Prophets the ſame? <hi>Stand vpon the wayes</hi> (it is <hi>Ieremie</hi>)
+<hi>and there looke for the good olde way, an that way take, it is the onely
+way to finde rest for your ſoules.</hi>
+                  <note place="margin">Ier.
+6.16.</note>
+               </p>
+               <p>
+                  <note place="margin">The Fathers.</note>To all which, agreeable is
+that, where<g ref="char:EOLhyphen"/>with I will ſhut vp this point; which all the Fathers in the
+firſt <hi>Nicene</hi> Councill tooke vp, and which, euer ſince, hath been
+the <hi>Churches</hi> cry, <gap reason="foreign" resp="#OXF" extent="1 span">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>:
+<hi>Mos anti<g ref="char:EOLhyphen"/>quus obtineat.</hi> Let olde <hi>cuſtomes</hi> preuaile, let
+them cary it. By this you ſee, <hi>Habemus conſuetudinem,</hi> hath beene
+counted a ſound allegation, not onely from the Apoſtles, but euen from
+<hi>Moſes</hi> time.</p>
+               <p n="3">
+                  <note place="margin">3. The Badges of a right cu<g ref="char:EOLhyphen"/>ſtome,
+two.</note>And now, for the <hi>talem. For,</hi> it is not the <hi>habemus</hi>
+that binds, but the <hi>talem.</hi> Not, becauſe <hi>we haue</hi> it, but
+becauſe it is ſo qua<g ref="char:EOLhyphen"/>lified. It is not euery cuſtome, hand ouer head, we
+may ſtand on. Why binds not this? <hi rend="sup">1</hi>Becauſe though it may be, it was at
+<hi>Corinth</hi> (<hi>Eccleſia Dei, a Church of God,</hi> one
+<hi>Church</hi>) yet <hi>Eccleſiae Dei,</hi> the other <hi>Churches of
+God,</hi> had it not; the word is plurall. <hi rend="sup">2</hi>Be<g ref="char:EOLhyphen"/>cauſe, though it hath liked
+ſome, not long <pb n="17" facs="tcp:285:10"/>ſince, to like well of it: yet the
+Apoſtles neuer knew it. or (the other way) if it haue liked them to diſlike
+it, and lay it downe; yet the Apoſtles liked it well enough.</p>
+               <p>
+                  <hi>Nontalem</hi> (ſaith the Apoſtle) <hi>none ſuch.
+Qualem</hi> then? How ſhall we doe to knowe the right <hi>talem?</hi> Thus.
+<hi>Non talem</hi> is heere oppoſed, to two: To the <hi>Churches of God:</hi>
+To <hi>nos</hi> (that is) <hi>the Apoſtles.</hi>
+               </p>
+               <p>
+                  <note place="margin">If it be <hi>Ecleſia<g ref="char:EOLhyphen"/>rum Dei.</hi>
+                  </note>If
+it be but of ſome one Church, but at <hi>Corinth</hi> alone, it is too
+narrow, not large, not generall enough. If it be but taken vp by ſome of our
+maſters of late, it is too freſh, it is not ancient enough: <hi>Non talem.
+No ſuch.</hi>
+               </p>
+               <p>But, by theſe two, wee know our right <hi>qualem.</hi> If it
+be <hi>Eccleſiarum</hi> (that is) if it bee Generall. If <hi>nos</hi> come to
+it (that is) the <hi>A<g ref="char:EOLhyphen"/>poſtles,</hi> if it bee ancient: then it is rightly
+qualified; then it is as it ſhould bee; then it may be alleadged, and ſtood
+vpon, then it will binde: and then, if any oppoſe, <hi>videtur contentioſus
+eſſe.</hi>
+               </p>
+               <p>I begin with the Churches (in the plu<g ref="char:EOLhyphen"/>rall.) Euery
+<hi>Church</hi> hath power to begin a cuſtome; and that cuſtome, power to 
+<pb n="18" facs="tcp:285:11"/>binde her owne children, to it. Prouided, her priuate
+cuſtome affront not the gene<g ref="char:EOLhyphen"/>rall, receiued by all others: for then binds it
+not. By the Rule in the Mathematiques, euer, <hi>Totum eſt parte maius:</hi>
+And by the rule in the Morals, Euer <hi>turpis pars omnis, toti non
+congrua.</hi>
+               </p>
+               <p>As neither is any particular <hi>Church,</hi> bound to the
+priuate cuſtome of another, like particular, as it ſelfe is. But if the
+other Churches cuſtome, haue alſo bin the gene<g ref="char:EOLhyphen"/>ral cuſtome of the
+<hi>Church:</hi> then it binds, and may not bee ſet light: For then ſaid it
+muſt be, that S. <hi>Augustine</hi> doth ſay, <hi>If the whole Church
+vſually haue obſerued ought: to go from that, or to queſtion, whether it
+bee to bee obſerued, inſolentiſsimae inſaniae eſt.</hi>
+                  <note place="margin">
+                     <hi>Epiſt.</hi> 118. <hi>ca.</hi> 5.</note> It ſauors of a
+diſtemper, a diſtemper comming of a heat, or humor of pride: For, <hi>onely
+by pride</hi> (ſaith <hi>Salomon</hi>) <hi>commeth contention.</hi>
+                  <note place="margin">Prou. 13.10.</note> This for the <hi>Churches cuſtome.</hi>
+               </p>
+               <p>
+                  <note place="margin">If <hi>nos</hi> (that is) the Apoſtles had
+it.</note>But, if to this we adde, or rather, if be<g ref="char:EOLhyphen"/>fore this we ſet, this
+<hi>(nos)</hi> the Apoſtles had it too, that it is Apoſtolike: we haue the<g ref="char:cmbAbbrStroke">̄</g>
+ſaid aſmuch, as in this point can be ſaid, aſmuch as may content any,
+that is not <hi>contentious,</hi>
+                  <pb n="19" facs="tcp:285:11"/>that, is not more wedded
+to ſhew his wit, then to ſeeke the truth: and more ſet
+<gap reason="foreign" resp="#OXF" extent="1 span">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, to maintaine his own poſition,
+then to regard the Churches peace. For ſure, if a cuſtome be to bee
+eſteemed by antiquitie; ſuch a cuſtome is <hi>ab heroicis vſque
+tempori<g ref="char:EOLhyphen"/>bus:</hi> for they be our <hi>Heroës.</hi> 
+                  <hi rend="sup">2</hi>If it be to be
+eſteemed by the author: what authours more worthy in themſelues, more
+worthy of our imitation, then they? Nothing can be deuiſed more reaſonable,
+then that in the 118. <hi>quaest. ad Orthod.</hi> in <hi>Iustin Martyr, That,
+of and from whom wee receiued <gap reason="foreign" resp="#OXF" extent="1 span">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, to
+pray: of and from them, wee ſhould alſo receiue
+<gap reason="foreign" resp="#OXF" extent="1 span">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> how and when, at what time, at
+what feasts to doe it.</hi> Their example (that is, the Apoſtles) the Church
+commended to her children to practiſe (a better <hi>ſhee</hi> could not.)
+that practiſe, in time grew to a cu<g ref="char:EOLhyphen"/>ſtome. That cuſtome is
+<hi>talem,</hi> may ſafely be alledged.</p>
+               <p n="4">
+                  <note place="margin">4. The Vſe of this argument from
+cuſtom.</note>Laſtly, as this ſheweth it may be alled<g ref="char:EOLhyphen"/>ged for a good
+argument in Diuinitie: So doth it, <hi rend="sup">1</hi>what the men are againſt whom: <hi rend="sup">2</hi>what
+the matters, wherein: <hi rend="sup">3</hi>what the penaltie, whereupon it may be alledged.</p>
+               <p n="1">
+                  <pb n="20" facs="tcp:285:12"/>
+                  <note place="margin">Againſt what
+parties.</note>1. Whom againſt. This may be alledged againſt <hi>ſi quis
+videtur contentioſus eſſe,</hi> ſuch as <hi>are,</hi> or at leaſt
+<hi>ſeeme contentious. Habemus,</hi> or <hi>Non habemus conſuetudinem,</hi>
+is their pro<g ref="char:EOLhyphen"/>per anſwere. No reaſoning with ſuch, it will be to ſmall
+purpoſe, they will bee <hi>ſine fine dicentes.</hi> S. <hi>Auguſtine</hi>
+ſaith well, they cannot diſtinguiſh betweene <hi>reſpondere
+poſſe,</hi> and <hi>tacere nolle.</hi> They take them, for all one. So they
+crie lowdeſt, and haue the laſt word, they take it they haue anſwered
+ſufficiently. Againſt theſe it lieth moſt pro<g ref="char:EOLhyphen"/>perly. None ſo ready a
+way, to ſtop their mouthes: for <hi>cuſtome</hi> is matter of fact,
+<hi>Habemus</hi> or <hi>Non habemus</hi> may bee put to twelue men, and there's
+an ende. S. <hi>Paul</hi> then vſing it heere againſt theſe, tea<g ref="char:EOLhyphen"/>cheth vs
+to vſe it againſt the like. Againſt ſuch parties; againſt <hi>ſi
+quis videtur conten<g ref="char:EOLhyphen"/>tioſus eſſe,</hi> to put it vpon this; Is there a
+<hi>cu<g ref="char:EOLhyphen"/>ſtome,</hi> or is there <hi>none?</hi>
+               </p>
+               <p n="2">
+                  <note place="margin">In what mat<g ref="char:EOLhyphen"/>ters.</note>Specially, if
+the matter be of the nature of this here in the Text, where the queſti<g ref="char:EOLhyphen"/>on
+ſeemed to concerne but matter of cir<g ref="char:EOLhyphen"/>cumſtance, and outward order; there
+hath<pb n="21" facs="tcp:285:12"/>it his right vſe; that the proper place of it. You
+will ſay; But had it not beene good though, to haue vſed ſome reaſon
+for it? It had: And the Apoſtle vſed diuers (if that would haue ſerued)
+from the <hi>ſignification,</hi> at the third verſe; from
+<hi>decencie,</hi> at the thir<g ref="char:EOLhyphen"/>teenth; from <hi>nature,</hi> at the fourteenth.
+But (to ſay the trueth) ſuch as he ſaw a wrang<g ref="char:EOLhyphen"/>ling wit would elude. The
+nature of the queſtion afforded none other. It was well obſerued, and ſet
+downe for a rule by the Philoſopher, <hi>That in morall matters, men may not
+looke for Mathematicall proofes. The na<g ref="char:EOLhyphen"/>ture of the ſubiect will not beare
+them.</hi> If not in morall, in rituall much leſſe: they of all other
+leaſt ſuſceptible of a demonſtratiue reaſon.</p>
+               <p>The Apoſtle ſaw this, and therefore fi<g ref="char:EOLhyphen"/>nally reſolues all,
+into the <hi>Churches</hi> practiſe by <hi>cuſtome</hi> confirmed: in
+matters of this kinde, enough of it ſelfe, to ſuffice any that will
+<hi>ſapere ad ſobrietatem.</hi> In ſo doing, as hee tooke the right
+courſe (we are ſure) ſo hee taught vs by his example, in points of this
+nature, of ceremonie or circumſtance, euer to pitch vpon <hi>habemus</hi> or
+<hi>non habe<g ref="char:EOLhyphen"/>mus<pb n="22" facs="tcp:285:13"/>talem conſuetudinem.</hi> This to be
+finall.</p>
+               <p n="3">
+                  <note place="margin">Vpon what poenaltie.</note>3. And then
+followes vpo<g ref="char:cmbAbbrStroke">̄</g> what penalty. Vpon no other paine, but to be pronoun<g ref="char:EOLhyphen"/>ced to be
+fallen into the Apoſtles <hi>Si quis;</hi> to be taken and declared, <hi>pro
+contentioſo.</hi> Then if any, for euery point of rite that takes him in the
+head, will hazzard the Churches peace, will not <hi>acquieſcere,</hi> but
+ſet himſelfe againſt the <hi>Churches cuſtome:</hi> he knoweth his
+doome heere. For it turnes backe <hi>reciprocé.</hi> As, if any be
+<hi>contentious,</hi> the <hi>Churches cuſtome</hi> is againſt him: So, if
+any turne vpon the <hi>Churches cuſtome,</hi> bee a<g ref="char:EOLhyphen"/>gainſt it: it is no
+good ſigne, <hi>videtur,</hi> (ſaith S. <hi>Paul.</hi>) to the Apoſtle
+hee ſeemes ſo (and he had his eyes in his head.) And what ſuch ſeemed
+to him, they may well ſeeme to vs, and we take them for no leſſe, that
+are alike ſtirring in matters of no more weight. 
+<note place="margin">The argu<g ref="char:EOLhyphen"/>ment finall.</note>And ſo an end of
+this mat<g ref="char:EOLhyphen"/>ter. For the Apoſtle, when hee had ſaid this, thought he had
+ſaid enough, needed to ſay no more. The <hi>Churches cuſtome</hi> ſhall
+euer be of force, to ouer-rule ſuch as are <hi>contentious.</hi> And when S.
+<hi>Paul</hi> had ſaid this, he had ſaid. And ſo haue we.</p>
+            </div>
+            <div n="3" type="part">
+               <pb n="23" facs="tcp:285:13"/>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">point </seg>3</label>
+                  <note place="margin">The keeping
+Eaſter is ſuch a cuſtome.</note>
+                  <hi>THis</hi> then being ſet downe,
+That Cu<g ref="char:EOLhyphen"/>ſtomes ſo qualified are to bee kept: Shall we now go on to the
+<hi>hypotheſis,</hi> that the keeping of Eaſter is ſuch? (And now I would
+the houre were to beginne againe, ſo much is to be ſaid for it)</p>
+               <p>
+                  <note place="margin">The time to make this cu<g ref="char:EOLhyphen"/>ſtome.</note>One
+foot of our compaſſe we fixe in the Apoſtles times. The other where? They
+appoint vs <hi>Gelaſius</hi> time, who was faſt vp<g ref="char:EOLhyphen"/>on the 500<hi rend="sup">dth</hi> yeere.
+Be it ſo.</p>
+               <p>
+                  <note place="margin">How long the Apoſtles. 100.</note>From the
+Apoſtles age, (which ended with S. <hi>Iohn,</hi> who ſuruiued
+<hi>Chriſt</hi> 68. yeeres, and dyed the yeare 102. vnder <hi>Trajan</hi>) to
+<hi>Gelaſius</hi> age. Of theſe 500. the firſt hun<g ref="char:EOLhyphen"/>dred yeares, are for
+<hi>(Nos)</hi> the Apoſtles time. 
+<note place="margin">How long the Churches. 400.</note>From thence,
+for the 400. yeeres following, are for the <hi>Churches.</hi> Which 400. we may
+diuide againe, into two euen moities. 200. vnder perſecution: 200. vn<g ref="char:EOLhyphen"/>der
+peace.</p>
+               <p n="1">
+                  <note place="margin">Proofes for the cuſtome of the
+Chur<g ref="char:EOLhyphen"/>ches.</note>To proue (then) our <hi>habemus conſuetu<g ref="char:EOLhyphen"/>dinem:</hi> 
+                  <note place="margin">1. Proofe. From conten<g ref="char:EOLhyphen"/>tions aboue
+it.</note>We cannot better beginne, then with this in the Text, the
+<hi>contentions,</hi> that from the beginning roſe about it. Thoſe very
+contentions prooue it. It muſt bee, that muſt be contended for: and then,
+it <pb n="24" facs="tcp:285:14"/>muſt be, when it is contended for. Theſe 3. things
+in this one proofe. <hi rend="sup">1</hi>The con<g ref="char:EOLhyphen"/>tentions that were about it, euen preſently
+vpon the Apoſtles times: 
+<note n="2" place="margin">The church tooke part with
+Eaſter.</note>The great care had, and continuall paines taken, to lay them
+downe, that is, the <hi>Churches</hi> conten<g ref="char:EOLhyphen"/>ding for the Feaſt: 
+<note n="3" place="margin">Cenſured euer for Hae<g ref="char:EOLhyphen"/>reticks, that
+againſt it.</note>The cenſuring of thoſe that tooke them vp, with S.
+<hi>Pauls con<g ref="char:EOLhyphen"/>tentioſus</hi> heere, and with ſomewhat more: (Of
+<hi>Blastus,</hi> at Rome in <hi>Europe;</hi> Of <hi>Creſ<g ref="char:EOLhyphen"/>centius</hi> in
+<hi>Egypt,</hi> for <hi>Afrique:</hi> Of <hi>Audaeus,</hi> in <hi>Sy<g ref="char:EOLhyphen"/>ria,</hi>
+for <hi>Aſia:</hi>) Theſe were the principalls, theſe were all written vp
+in the blacke booke, by thoſe that regiſtred the Here<g ref="char:EOLhyphen"/>ticks; by
+<hi>Tertullian, Epiphanius, Philaſtrius, Augustine,</hi> and
+<hi>Theodoret,</hi> (all fiue.)<note place="margin">
+                     <hi>Tert depreſor. c.</hi>
+53. <hi>Epiphan. He<g ref="char:EOLhyphen"/>reſ.</hi> 70. <hi>Syn. Antioch. Can.</hi> 1.</note>
+               </p>
+               <p>
+                  <note place="margin">The Conten<g ref="char:EOLhyphen"/>tion not about the Feaſt, but
+the time only.</note>But as God would haue it, the queſtion neuer was of the
+Feaſt it ſelfe, but of the time of it onely. All kept Eaſter, though not
+all at one time. For the keeping, they had the <hi>Churches cuſtome:</hi> for
+the time of keeping, they had their owne: the Feaſt of the Chriſtians; the
+time of the Iewes.</p>
+               <p>
+                  <note place="margin">How the con<g ref="char:EOLhyphen"/>tention firſt came.</note>And I
+will tell you how this came, firſt. From S. <hi>Iames</hi> (who was the
+firſt,) there were ſucceſſiuely one after another, fif<g ref="char:EOLhyphen"/>teene 
+<pb n="25" facs="tcp:285:14"/>Biſhops of <hi>Hieruſalem,</hi> all of them of the
+Circumciſion. Theſe, (the ſooner to winne their brethren the Iewes)
+conde<g ref="char:EOLhyphen"/>ſcended to keepe their Eaſter, 14<hi rend="sup">a</hi>. <hi>Lunae,</hi> as They did.
+That which was by them thus done by way of condeſcenſion, was after by
+ſome vrged as a matter of neceſſity, as if it were not lawfull, but on
+that day to hold it.</p>
+               <p>The firſt that it tooke thus in the head, (<hi>Tertullian</hi>
+in the ende of <hi>de praeſcrip,</hi>
+                  <note place="margin">
+                     <hi>Cap.</hi>
+53.</note> ſaith) was one <hi>Blaſtus</hi> about the dayes of
+<hi>Commo<g ref="char:EOLhyphen"/>dus.</hi> He began a ſchiſme. And <hi>Irenaeus</hi> pre<g ref="char:EOLhyphen"/>ſently
+wrote <hi>de ſchiſmate contra Blactum</hi>
+                  <note place="margin">
+                     <hi>Hie.
+deſor.</hi> 35.</note> But after, from ſchiſme <hi>Blastus</hi> fell to
+hereſie, and began that of the <hi>Quartodecimani:</hi>
+                  <note place="margin">
+                     <hi>Epiphan. haer.</hi> 50</note> to whoſe manner of keeping it,
+for the moſt part, other heretiques did cleaue, leauing the <hi>Churches
+custome</hi> of purpoſe, ſince they were departed from her.</p>
+               <p>Great pitie, ſome in our dayes had not beene then liuing, to
+haue aduiſed the Church to haue ſaued her paines, and ne<g ref="char:EOLhyphen"/>uer haue ſtriuen
+ſo about it: the ſhorreſt way was, to haue made no more adoe, but kept
+none at all. But, <hi>non habemus calem<pb n="26" facs="tcp:285:15"/>conſuetudinem,</hi> would haue beene their an<g ref="char:EOLhyphen"/>ſwere. For you will
+eaſily gueſſe: if theſe, for not keeping it at the right time, were
+ſcored vp for heretiques; what would haue become of them, that had beene
+a<g ref="char:EOLhyphen"/>gainſt the keeping of it at all.</p>
+               <p>
+                  <note place="margin">None againſt Eaſter, but
+<hi>Aërius;</hi>
+                  </note>Til now in our daies, there was neuer a<g ref="char:EOLhyphen"/>ny ſuch
+but <hi>Aërius;</hi> he took it away cleane as Iewiſh. His reaſon was
+(ſaith <hi>Epiphanius</hi> ſcorning it)<note place="margin">
+                     <hi>Epiphan
+Hae<g ref="char:EOLhyphen"/>reſ.</hi> 75.</note> becauſe <hi>Chriſt our Paſseouer is offered.
+Chriſt our Paſſeouer is offered, let vs therefore keepe a feaſt</hi>
+(ſayth S. <hi>Paul.</hi>)<note place="margin">1. Cor. 57.</note> Let vs
+therefore keepe none (ſaith <hi>Aërius</hi>) holden for ſo ſaying,
+for little better then crazed. There was neuerany Council called about him: but
+as <hi>Aërius</hi> was his name, ſo was his opinion, and ſo it ſoone
+vaniſhed into aire, and was blowen ouer ſtreight. 
+<note place="margin">All elſe keepe Eaſter, the old Puritans,
+the Nouatians and all.</note>O<g ref="char:EOLhyphen"/>therwiſe, all heretiques, an Eaſter they
+had: Not ſo much as the <hi>Nouatians,</hi> that called themſelues
+<hi>Cathari</hi> (that is, the <hi>Puri<g ref="char:EOLhyphen"/>tanes</hi> of the Primitiue Church) but
+one they had: but like good fellowes (by their <hi>Canon adiaphorus</hi>)<note place="margin">
+                     <hi>Socr. l.</hi> 5. <hi>c.</hi> 20.</note> they left euery one at
+li<g ref="char:EOLhyphen"/>bertie, ſo he kept one, to keepe it whether way he liſted, but keepe one
+he muſt. This <pb n="27" facs="tcp:285:15"/>contending about this cuſtome from the
+beginning ſheweth from the beginning, ſuch a cuſtome there was.</p>
+               <p n="2">
+                  <note place="margin">2. Proofe From the <hi>Cy<g ref="char:EOLhyphen"/>cli
+Paſchales.</hi>
+                  </note>Next we auouch the <hi>Cycli Paſchales</hi> (for the
+keeping it right) which were indeede the <hi>Churches</hi> yeerely Calender,
+(which to this day the Greeke <hi>Church</hi> call their
+<gap reason="foreign" resp="#OXF" extent="1 word">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>) made of purpoſe for the iuſt
+keeping it, at the very time. A pregnant proofe for this cuſtome, if there
+were none but it.<label type="milestone">
+                     <seg type="milestoneunit">canon </seg>1</label> By <hi>Hip<g ref="char:EOLhyphen"/>polytus</hi> firſt
+a famous Biſhop and holy Martyr (His was the 16. yeere <hi>Canon</hi>) ſet
+foorth by him ſo timely, as it ended in the firſt yeere of <hi>Alexander
+Seuerus.</hi>
+               </p>
+               <p>And after him, that of eight yeeres, de<g ref="char:EOLhyphen"/>uiſed by
+<hi>Dionyſius</hi> Biſhop of <hi>Alexandria,</hi>
+                  <label type="milestone">
+                     <seg type="milestoneunit">canon </seg>2</label> who was a Martyr alſo, and of high ac<g ref="char:EOLhyphen"/>count euer in the Church.
+(And both theſe, vnder the perſecution.)</p>
+               <p>Then came <hi>Euſebius,</hi> whoſe deuiſe the Golden
+number was,<label type="milestone">
+                     <seg type="milestoneunit">canon </seg>3</label> or Cycle of 19. yeres. His helde,
+till <hi>Theophilus</hi> of <hi>Alexandria's</hi> began.<label type="milestone">
+                     <seg type="milestoneunit">canon </seg>4</label>
+               </p>
+               <p>Now the time of the ſetting of his, is recorded to haue beene
+the yeere 380. <hi>Proſper</hi> came after him,<label type="milestone">
+                     <seg type="milestoneunit">canon </seg>5</label>
+and he ſet another.<pb n="28" facs="tcp:285:16"/>And laſt came <hi>Victorinus</hi> of
+<hi>Aquitaine</hi> a<g ref="char:EOLhyphen"/>bout the yeere 460.<label type="milestone">
+                     <seg type="milestoneunit">canon </seg>6</label> (not
+much before <hi>Ge<g ref="char:EOLhyphen"/>laſius.</hi>) 
+<note n="*" place="margin">1. <hi>Victor Ca<g ref="char:EOLhyphen"/>puanus.</hi> 2.
+<hi>Dionyſ. Exi<g ref="char:EOLhyphen"/>guus.</hi>
+                  </note>Two more came after theſe, before it was
+fully ſetled: (but wee will not paſſe our bounds:) If no ſuch
+<hi>cuſtome</hi> were, what needed all theſe paines, all this adoe, in
+theſe Cycles ſetting, and calculation of times? It ſhewes the great
+eſteeme, the <hi>Church</hi> had the Feaſt in, that it was ſo care<g ref="char:EOLhyphen"/>full
+of the preciſe time of it, euery yeere.</p>
+               <p>
+                  <note place="margin">The vſe of the <hi>Cycli
+Paſchales.</hi>
+                  </note>And there was reaſon for it. Other<g ref="char:EOLhyphen"/>while they were at
+an after-deale, about the time. The yeere 454. (within a yeere or two, after
+the Council of <hi>Chalcedon</hi>) all were at a ſtand. Eaſter fell ſo
+high in <hi>A<g ref="char:EOLhyphen"/>pril,</hi> they were in doubt, they had beene wrong: Yea
+<hi>Leo</hi> himſelfe (that then liued) and all. Preſently fell
+<hi>Leo</hi> to writing letters about, to all, reputed any thing ſeene that
+way. To the Biſhop of 
+<note n="a" place="margin">
+                     <hi>Paſchaſi<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>.</hi>
+                  </note>
+                  <hi>Lilybaeum</hi> in <hi>Sicil.</hi> To
+the Biſhop of the Iſle 
+<note n="b" place="margin">
+                     <hi>Iulianus Ep.</hi>
+68.</note>
+                  <hi>Coos.</hi> To the 
+<note n="c" place="margin">
+                     <hi>Ep.</hi> 64.</note>Emperour
+<hi>Martian</hi> himſelfe (and to the 
+<note n="d" place="margin">
+                     <hi>Ep.</hi> 65.</note>Empreſſe to
+ſollicite him) that he would not faile, but ſend to <hi>Proterius</hi>
+Biſhop of <hi>Alexandria</hi> to helpe them out: As hee did. And the like
+fell our in S. <hi>Ambroſes</hi> time.<pb n="29" facs="tcp:285:16"/>
+                  <hi>Damaſus</hi>
+and all, were to ſeeke about it, and he then faine to cleare it by his 83.
+Epiſtle, to the Biſhops of <hi>AEmylia.</hi>
+               </p>
+               <p n="3">
+                  <note place="margin">3 Proofe, From the <hi>Paſ<g ref="char:EOLhyphen"/>chales
+Epiſtolae,</hi> or <gap reason="foreign" resp="#OXF" extent="1 span">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> of the
+Bi<g ref="char:EOLhyphen"/>ſhop of <hi>Alex<g ref="char:EOLhyphen"/>andria.</hi>
+                  </note>Now, vpon the conſulting the
+Biſhop of Alexandria, there hangs a third proofe. The <hi>paſchales
+epiſtolae,</hi> yeerely ſent abroad by that See, to this end <hi>Leo</hi>
+confeſſeth to the Emperour, That becauſe, they of <hi>Egypt</hi> were
+held for the moſt skilfull in the Ma<g ref="char:EOLhyphen"/>thematiques, beſt at calculations; it
+was by the firſt Councell of <hi>Nice</hi> laide vpon them, (this truſt,)
+yeerely to calculate the day exactly, and to giue notice of it in time to other
+<hi>Churches,</hi> yea to Rome and all.</p>
+               <p>And it was <hi>antiqua conſuetudo,</hi> ſaith
+<hi>Caſsi<g ref="char:EOLhyphen"/>an,</hi>
+                  <note place="margin">
+                     <hi>Collat.</hi> 10.2.</note> (who liued
+with <hi>Chryſostome,</hi> and was his Deacon) that euery yeare, the morrow
+after their <hi>Epiphania,</hi> the Biſhop of Alexan<g ref="char:EOLhyphen"/>dria ſent abroad his
+<hi>paſchales epistolae,</hi> to warne Eaſter, ouer the world. And, when
+(after) by reaſon of warres in the Spring time, in many places they were
+intercep<g ref="char:EOLhyphen"/>ted, that they came not time enough: Or<g ref="char:EOLhyphen"/>der was taken anew by the
+great Councell of <hi>Aphrique,</hi>
+                  <note place="margin">
+                     <hi>Conc. Carthag.
+Can.</hi> 74.</note> that letters for warning Eaſter<pb n="30" facs="tcp:285:17"/>ſhould come forth ſooner by the 21. of <hi>August</hi> euery
+yeere, that ſo they might haue time to come, whither they were ſent ſoone
+enought.</p>
+               <p>Theſe <hi>Paſchales epiſtolae</hi> were euer fa<g ref="char:EOLhyphen"/>mous, and
+of high account, for other good matter conteined in them. Three of them of
+<hi>Theophilus,</hi> wee haue extant, ſo highly eſteemed by S.
+<hi>Hierom,</hi> as hee tooke the paines to turne them into Latine, and to him
+wee owe them. But, though by the <hi>Nicene Councell</hi> this was laid vpon
+the Bi<g ref="char:EOLhyphen"/>ſhop of Alexandria; I would not haue you conceiue, it began then.
+<hi>Ruffin</hi> ſaith,<note place="margin">L. 1. c. 6.</note> the Councel did
+but <hi>antiquum Canonem tra<g ref="char:EOLhyphen"/>dere,</hi> deliuer the olde Canon, deliuer the
+olde Canon, that had bene before in vſe.<note place="margin">
+                     <hi>L.</hi> 7.
+<hi>c.</hi> 20. <hi>Niceph. l. c.</hi> 11.</note> For long before,
+<hi>Euſebius</hi> mentioned thoſe <hi>Paſchales epiſtolae</hi> ſent
+a<g ref="char:EOLhyphen"/>bout, by <hi>Dionyſe</hi> Biſhop there, euen vnder the perſecution.</p>
+               <p n="4">
+                  <note place="margin">4. Proofe. From the Fa<g ref="char:EOLhyphen"/>thers in the
+Churches peace the lat<g ref="char:EOLhyphen"/>ter 200. yeeres.</note>Now if we will follow
+<hi>Iobs</hi> aduiſe, and <hi>ſet our ſelues to aſke of the
+Fathers:</hi>
+                  <note place="margin">Iob 8.8.</note> wee ſhall finde <hi>habemus
+talem conſuetudinem,</hi> cleere with them for it. <hi rend="sup">1</hi>Thoſe firſt, that
+liued after the Churches peace: <hi rend="sup">2</hi>Then thoſe, that during the perſecution.
+Thoſe in the <pb n="31" facs="tcp:285:17"/>
+                  <hi>Churches</hi> peace, foure wayes. 
+<note place="margin">By the Homi<g ref="char:EOLhyphen"/>lies vpon Ea<g ref="char:EOLhyphen"/>ſter
+day.</note>
+                  <hi rend="sup">1</hi>By the Ho<g ref="char:EOLhyphen"/>milies or Sermons made purpoſely by them, to be
+preached on that day. Wee haue a ful Iurie, Greeke &amp; Latine, of them, and
+that of the moſt choice and eminent among them. S. <hi>Baſil, Nazianzen,
+Chryſo<g ref="char:EOLhyphen"/>ſtome, Nyſſen, Theophilus Alexandrinus, Cy<g ref="char:EOLhyphen"/>rill, Chryſologus,
+Leo, &amp;c.</hi> And yet I deale not with any of thoſe in <hi>Ambroſe,
+Austin, Maxi<g ref="char:EOLhyphen"/>mus,</hi> now extant, I know they are queſtio<g ref="char:EOLhyphen"/>ned. I relie onely
+on the report of S. <hi>Hie<g ref="char:EOLhyphen"/>rom</hi> and <hi>Gennadius,</hi> who ſaw the
+right co<g ref="char:EOLhyphen"/>pies, and what they ſaw haue reported.</p>
+               <p n="1">I will giue you a taſte of one. It ſhall be
+<hi>Nazianzen,</hi> ſurnamed the Diuine, and ſo one, that knew what
+belonged to Diui<g ref="char:EOLhyphen"/>nitie. Thus beginnes he a Sermon of his vpon it. <hi>Eaſter
+day is come,</hi>
+                  <note place="margin">1. <hi>in Paſchae.</hi>
+                  </note> Gods owne
+Eaſter day, and againe I ſay: Eaſter day is come, in honour of the
+Trinitie: the Feaſt of Feaſts, the ſolemnitie of all ſolemnities, ſo
+farre paſſing all other Feaſts, holden not onely by or for men, but euen
+in honour of <hi>Chriſt</hi> himſelfe, as the Sunne doth the Starres.</p>
+               <p>And, in his funerall Sermon for his fa<g ref="char:EOLhyphen"/>ther,<pb n="32" facs="tcp:285:18"/>ther, hauing occaſion but to name it by the way (for that his father
+once brought to the laſt caſt in a long ſickeneſſe of his,
+ſuddenly, (as it were by miracle) recoue<g ref="char:EOLhyphen"/>red vpon an Eaſter day morning) It
+was (ſaith he) Eaſter, the great and famous Feaſt of Eaſter, the Queene
+and the Soue<g ref="char:EOLhyphen"/>raigne of all the dayes in the yeere. That in his dayes they had
+ſure ſuch a cuſtome.</p>
+               <p>(And ſo it ſeemes they had in <hi>Ignatius</hi> dayes: for
+from him borrowed he that terme of Lady and Queene of dayes, out of his
+Epiſtle <hi>ad Magneſianos.</hi>)</p>
+               <p n="2">
+                  <note place="margin">By the Hymnes vpon Eaſter
+day.</note>2. By the Hymnes ſet for this day, to be ſung on it. By
+<hi>Prudentius</hi> that liued in S. <hi>Ambroſe</hi> time. By S.
+<hi>Ambroſe</hi> himſelfe. Be<g ref="char:EOLhyphen"/>fore him by S. <hi>Hilarie.</hi> But,
+<hi>Paulinus</hi> I in<g ref="char:EOLhyphen"/>ſiſt on. He, in his ninth <hi>Panegyrick</hi> for
+<hi>Fe<g ref="char:EOLhyphen"/>lix,</hi> ſets downe in particular all the Feaſts in the yere, as
+they were then in vſe among them. <hi>Eaſter,</hi> for a chiefe Feaſt. He
+liued with S. <hi>Auguſtine.</hi> A pregnant record, for the <hi>Churches
+custome</hi> then.</p>
+               <p n="3">
+                  <note place="margin">By their wri<g ref="char:EOLhyphen"/>tings tou<g ref="char:EOLunhyphen"/>ching
+Eaſter.</note>3. By their writings. <hi rend="sup">1</hi>Some of them in their Commentaries (as
+S. <hi>Hierom,</hi>) and namely on the <hi>Galatians,</hi> and on that place 
+<pb n="33" facs="tcp:285:18"/>
+                  <hi>(ye obſerue dayes) If that be a fault</hi>
+(ſaith he) <hi>we Chriſtians doe incurre that fault, all. For weekeepe</hi>
+(by name) <hi>Eaſter, but not the Iewes Easter, of vnleauened bread (which
+the Apoſtle excepts to) but the Chriſtian Easter, of the Re<g ref="char:EOLhyphen"/>ſurrection of
+Christ.</hi> 
+                  <hi rend="sup">2</hi>Some by way of Epi<g ref="char:EOLhyphen"/>ſtles and anſweres: as, S.
+<hi>Ambroſe</hi> 83. <hi>Epi<g ref="char:EOLhyphen"/>ſtle,</hi> full to it. S. <hi>Austin</hi> 118.
+119. ſet Epi<g ref="char:EOLhyphen"/>ſtles concerning queſtions about it. <hi rend="sup">3</hi>Some, by their
+<gap reason="foreign" resp="#OXF" extent="1 word">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, As <hi>Epiphanius</hi> (the
+Treaſure of antiquitie) in his 50 70. &amp; 75. hereſie, <hi>ad
+oppoſitum.</hi> Poſitiuely in his <hi>Co<g ref="char:cmbAbbrStroke">̄</g>pen<g ref="char:EOLhyphen"/>diu<g ref="char:cmbAbbrStroke">̄</g>
+                  </hi> of the true Churches
+orders, at the end of his <hi>Panarium,</hi> whereof one is
+<gap reason="foreign" resp="#OXF" extent="1 span">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. <hi>The great ſolemnitie vpon
+Eaſter day.</hi> 
+                  <hi rend="sup">2</hi>As S. <hi>Austin</hi> expreſly <hi>contra
+Adi<g ref="char:EOLhyphen"/>mantum,</hi> the 16. Chap. and the 32. booke a<g ref="char:EOLhyphen"/>gainſt <hi>Fauſtus</hi>
+(that found fault the Church kept it, yet kept it not as the Iewes:)
+con<g ref="char:EOLhyphen"/>feſſeth the one, (the Churches keeping:) trauerſes the other, that
+ſhe ought neither at that time, nor in that manner to keepe it, as they did:
+and that at large. <hi rend="sup">4</hi>Some by ſhort treatiſes, as <hi>Ambroſe de
+myſterio Paſchae.</hi> And ſome by full bookes, as <hi>Euſebius,</hi>
+who wrote a booke of the whole Order of the<pb n="34" facs="tcp:285:19"/>Churches Seruice
+then, dedicated it to <hi>Constantine,</hi> was by the Emperour highly
+commended for it.</p>
+               <p n="4">
+                  <note place="margin">By matters of fact.</note>4. Laſtly,
+as by writing, ſo by matter of fact. 
+<note place="margin">Of <hi>Chryſoſtom Socrat. l.b. ca.</hi>
+18.</note>As <hi>Chryſostome,</hi> who when he was depoſed, and ſo
+enioyned not to come in a<g ref="char:EOLhyphen"/>ny Church: yet Eaſter day comming, ſo loth he was
+not to keepe it, as he got him <hi>in Thermas Constantini</hi> (a ſpacious
+great building, for the publique bath of the Ci<g ref="char:EOLhyphen"/>tie) and there held his
+Eaſter, with a very great company, that would not forſake him. 
+<note place="margin">Of <hi>Athanaſius Apolog. ad
+Conſtantium.</hi>
+                  </note>As <hi>Athanaſius,</hi> who being accuſed to
+<hi>Conſtantius</hi> the Emperour, for keeping the Feaſt of Eaſter in the
+great Church at <hi>Alexandria</hi> (then but newly finiſhed, and as yet not
+dedicate) hee layes the blame fro<g ref="char:cmbAbbrStroke">̄</g> himſelfe vpon the people, that would haue
+it kept there, doe what he could, the other Churches were ſo narrow, and the
+concourſe to the Feaſt ſo great, as he ſaith it would haue done the
+Emperours heart good, to haue ſeene it.</p>
+               <p>And, in his Epiſtle <hi>ad Africanos,</hi> with o<g ref="char:EOLhyphen"/>pen mouth he
+cryeth out vpon the <hi>Arrians</hi> that came in militarie maner to inſtal
+their<pb n="35" facs="tcp:285:19"/>new Biſhop, and the many outrages by them done.
+Aboue all, that not only they did thoſe outrages, but did them (of all dayes)
+vpon <hi>Eaſter</hi> day, <hi>Et ne ipſum quidem dominicum diem
+ſanctiſsimi Feſti vllâ in reue<g ref="char:EOLhyphen"/>rentiâ habuere,</hi> And had
+not in any reue<g ref="char:EOLhyphen"/>rence, not the very Sunday of that moſt holy Feaſt.</p>
+               <p>
+                  <note place="margin">Cuſtome for the three Holydayes at
+Eaſter.</note>Not the <hi>Sunday:</hi> for wee are to know, the cuſtome
+that is continued with vs ſtil, they then had, to keepe two dayes beſide
+the <hi>Sunday,</hi> three in all: For the Latine Church, plaine, by Saint
+<hi>Auſtine de ciuitate Dei.</hi> 22. <hi>In</hi> 3<hi rend="sup">um</hi> 
+                  <hi>Feſti
+diem.</hi>
+                  <note place="margin">Cap. 8. <hi>Hom.</hi> 1. <hi>in
+Paſ<g ref="char:EOLhyphen"/>cha.</hi>
+                  </note> For the Greeke, by <hi>Nyſſen,</hi> who expreſly
+termeth it, <gap reason="foreign" resp="#OXF" extent="1 span">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</p>
+               <p>Thus, all theſe wayes, by ſinging, by ſaying, by writing,
+by doing, all beare witneſſe to it: and I may ſafely ſay; there is not
+one of them, but one of theſe wayes or other, he hath his hand in it, and
+among them they make vp a full proofe, of this <hi>habemus
+conſuetudinem.</hi>
+               </p>
+               <p n="5">
+                  <note place="margin">5. proofe From the Councels.</note>From
+the Fathers, I paſſe to the Coun<g ref="char:EOLhyphen"/>cils, and plead it by all the foure. The
+<hi>Nicene</hi> firſt.</p>
+               <p n="1">
+                  <pb n="36" facs="tcp:285:20"/>
+                  <note place="margin">The
+<hi>Nicene.</hi>
+                  </note>1. Two cauſes there were (ſaith <hi>Athanaſius de
+Syn. Arim. &amp; Sel.</hi>) of the aſſembling that Council. <hi>Nam &amp;
+claudicabant circa Feſtum</hi> (and hee makes that the firſt cauſe)
+<hi>They halted about the Feaſt, kept in not vniformely:</hi> and that was
+ſet ſtreight, againſt <hi>Creſce<g ref="char:cmbAbbrStroke">̄</g>tius.</hi> And, <hi>the Deitie of the
+Sonne of God was que<g ref="char:EOLhyphen"/>ſtioned,</hi> and that was put into the <hi>Nicene</hi>
+Creed, againſt <hi>Arrius.</hi>
+                  <note place="margin">
+                     <hi>Theodor. l.</hi> 1.
+<hi>ca</hi> 9. <hi>Socrat l.</hi> 1. <hi>c.</hi> 9.</note> You haue the
+Councels Epiſtle for the ſetling it: you haue the Emperors <hi>Sacra</hi>
+for the ratifying it, directed <hi>ad omnes Eccleſias</hi> (in the third
+booke of his life, by <hi>Euſebius.</hi>)</p>
+               <p n="2">
+                  <note place="margin">The 2. of Conſtant.</note>2. For the
+ſecond General at <hi>Co<g ref="char:cmbAbbrStroke">̄</g>ſtantinople.</hi> As <hi>Conſtantine</hi> in the
+firſt; ſo <hi>Theodoſius</hi> at this, was not behind. His Law remaines,
+whereby he prouided, that for 15. dayes, from the Sunday before the day, till
+the Sunday after, no proceſſe ſhould go forth, none ſhould be
+arreſted, a generall ceſſa<g ref="char:EOLhyphen"/>tion of all both proceſſes and
+procee<g ref="char:EOLhyphen"/>dings, in honour of the High Feaſt. That you haue Eaſter day, and
+the cuſtome of holding it ſolemnely, in the body of the Law too, in
+<hi>Theodoſius Code.</hi>
+               </p>
+               <p n="3">3. At the third of <hi>Epheſus,</hi> there haue you 
+<pb n="37" facs="tcp:285:20"/>in the 2. Tom. c. 32. <hi>Rudius, Heſychius,</hi> and
+<hi>Ruffin,</hi> three <hi>Quartodecimani</hi> heretiks, pub<g ref="char:EOLhyphen"/>likely in the face
+of the Councel recanting their errour, ſubſcribing, and promiſing euer
+after to conforme and keepe their Eaſter, after the <hi>cuſtome of the
+Churches of God.</hi>
+               </p>
+               <p n="4">
+                  <note place="margin">4 At <hi>Chalcedon.</hi>
+                  </note>And at
+the fourth of <hi>Chalcedon,</hi> the ſixt Seſsion (the Emperour being
+there then preſent in perſon) the whole Councell with one voice made this
+acclamation, <hi>Vnum Paſcha orbi terrarum:</hi> Thankes be to God, <hi>One
+Eaſter</hi> now, and but one, <hi>all the world ouer.</hi>
+               </p>
+               <p>
+                  <note place="margin">Cuſtome in England.</note>But before all
+theſe (the <hi>Nicene</hi> and all) by a dozen yeeres at leaſt, was the
+Councel of <hi>Arles,</hi> and in it, this cuſtome proclai<g ref="char:EOLhyphen"/>med. I mention it,
+not ſo much for the an<g ref="char:EOLhyphen"/>tiquitie, as that by it appeareth, how the cuſtome
+of <hi>Eaſter</hi> went heere with vs in this Realme; for at it was preſent
+and ſub<g ref="char:EOLhyphen"/>ſcribed, the Biſhop of <hi>London, Reſtitutus.</hi> A plaine
+argument, We had ſuch a cuſtom then.</p>
+               <p>
+                  <note place="margin">Cuſtome in Scotland.</note>And for the
+other Realme, <hi>Gelaſius</hi> ſhall ſpeake. In a Synod of 70.
+Biſhops, where<pb n="38" facs="tcp:285:21"/>he and they decreed what bookes were to be
+read, what not: 
+<note place="margin">
+                     <hi>Sedulius.</hi>
+                  </note>they ſay, there was
+then a Poeme of venerable <hi>Sedulius</hi> (who had the addition of
+<hi>Scotus</hi> for his nation) which they doe <hi>inſigni laude
+praeferre,</hi> (that is) very highly commend. <hi>Sedulius</hi> intitles it,
+his <hi>Opus Paſchale,</hi> and begins it, with <hi>Paſchales quicunque
+dapes</hi>—as it were inui<g ref="char:EOLhyphen"/>ting his Readers (his countreymen, I dare
+ſay, ſpecially, if they will come to it) to a Feaſt, vpon Eaſter
+day.</p>
+               <p>
+                  <note place="margin">Cuſtome in both.</note>But for both, 
+<note place="margin">
+                     <hi>Conſtantine.</hi>
+                  </note>none ſo worthy
+a wit<g ref="char:EOLhyphen"/>neſſe, as the Emperours <hi>Constantine,</hi> who in his reſcript
+about Eaſter, directed to all Churches, expreſly nameth this Iſle, the
+iſle of <hi>Britannie,</hi> among thoſe places, where this
+<hi>cuſtome</hi> was duly and orderly obſerued.</p>
+               <p n="6">
+                  <note place="margin">6. Proofe. From the Fa<g ref="char:EOLhyphen"/>thers in the
+firſt 200. yeeres of per<g ref="char:EOLhyphen"/>ſecution.</note>All this while the <hi>Church</hi>
+had reſt: du<g ref="char:EOLhyphen"/>ring the perſecution how went it? 
+<note place="margin">Two, betwene peace &amp;
+per<g ref="char:EOLhyphen"/>ſecution.</note>Two wee will take in, in the paſſage betweene the
+times of peace, and perſecution. 
+<note place="margin">
+                     <hi>Lactantius, Pierius. Hier. de. Scr.</hi>
+76.</note>
+                  <hi rend="sup">1</hi>
+                  <hi>Lactantius,</hi> the moſt part of his life, li<g ref="char:EOLhyphen"/>ued vnder the
+perſecution, but died in the Churches peace. <hi rend="sup">2</hi>So did <hi>Pierius</hi> of
+<hi>Alex<g ref="char:EOLhyphen"/>andria</hi> (for his excellent learning, called <hi>Origen</hi> the
+yonger.) In <hi>Lactantius</hi> 7. booke<pb n="39" facs="tcp:285:21"/>19 Chapter, there
+is a plaine teſtimony for the ſolemne keeping of Eaſter Eue. And
+<hi>Pierius</hi> (ſaith S. <hi>Hierom</hi>) hath a long Ser<g ref="char:EOLhyphen"/>mon vpon the
+Prophet <hi>Hoſee,</hi> made by him, and preached at the ſolemne
+aſſem<g ref="char:EOLhyphen"/>bly on Eaſter Eue. And if the Eue were ſo helde, we make no doubt
+of the day.</p>
+               <p n="1">
+                  <note place="margin">Vnder the perſecution. The fact of
+<hi>Philip</hi> the Emperour. L. 6. c. 34.</note>1. Now in the midſt of the
+perſecuti<g ref="char:EOLhyphen"/>on, there fell out a ſpeciall caſe of <hi>Philip</hi> the
+Emperour, (ſuppoſed to haue giuen his owne and his ſonnes name to the
+Chri<g ref="char:EOLhyphen"/>ſtian profeſsion, as <hi>Euſebius</hi> reporteth) in ſigne
+thereof. Hee, on Eaſter Eue offered to ioyne himſelfe at the Church
+ſeruice, as knowing that to be their chiefeſt ſolemni<g ref="char:EOLhyphen"/>tie: which they
+failed not to keepe, no not then, when their caſe was at the hardeſt.</p>
+               <p n="2">
+                  <note place="margin">
+                     <hi>Euſeb.</hi> 1.7. <hi>cap.</hi>
+22. <hi>Dionyſius A<g ref="char:EOLhyphen"/>lexand.</hi>
+                  </note>2. And euen then at
+<hi>Alexandria, Diony<g ref="char:EOLhyphen"/>ſius</hi> the Biſhop there, held this
+<hi>cuſtom.</hi> Thus writes hee to <hi>Hierax</hi> (a Biſhop too, and to
+others) out of priſon: That, though the perſecution then raged much, and
+the plague more; yet were the Chriſtians, euen then, ſo carefull not to
+breake this <hi>cuſtome,</hi> as they kept their Eaſter, ſome in woods,
+ſome on ſhipboard, ſome in barnes and<pb n="40" facs="tcp:285:22"/>ſtables; yea,
+they in the very gaole, keepe it they did euen then, perſecution and plague
+both notwithſtanding.</p>
+               <p n="3">
+                  <note place="margin">
+                     <hi>Cyprian Epiſt.</hi>
+21.24.40.</note>3. <hi>Cyprian</hi> helde this <hi>cuſtome:</hi> Not by his
+Homily (I waiue it as doubtful) but in foure of his Epiſtles I finde it. I
+name but one, his 53. Some had conſulted him, in a queſtion of ſome
+difficultie. Hee writes backe, It was now Eaſter, his brethren were from him,
+euery one at his owne charge, ſolemnizing the Feaſt with their people. So
+ſoone as the Feaſt was ouer, and they met againe, they ſhould heare from
+him, hee would take their opinions, and returne them a ſound anſwere.</p>
+               <p n="4">
+                  <note place="margin">
+                     <hi>Origen.</hi>
+                  </note>4.
+<hi>Origen</hi> had this <hi>custome.</hi> In his 8. a<g ref="char:EOLhyphen"/>gainſt
+<hi>Celſus</hi> frankely he confeſſeth, That other Feaſts,
+<hi>Easter</hi> by name, the Chriſti<g ref="char:EOLhyphen"/>ans held then; and that (as he ſaith)
+<gap reason="foreign" resp="#OXF" extent="1 word">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, in more ſolemne maner, then
+<hi>Celſus,</hi> or any heathen men of them all, held theirs.</p>
+               <p n="5">5. <hi>Tertullian</hi> had this <hi>cuſtome:</hi> 
+                  <note n="*" place="margin">
+                     <hi>Tertullianus de corona mil. c.</hi>
+3. <hi>ad vxorem l.</hi> 2. <hi>c.</hi> 4. <hi>contr. Marc.</hi> 4.3.
+5.4.</note> many places in him. Onely one I cite, in the 14. chap. <hi>de
+Iejunio: Quod ſi omnem in totum de<g ref="char:EOLhyphen"/>uotionem dierum eraſit Apoſtolus, cur
+Paſcha celebramus annuo circulo?</hi> If it were the Apo<g ref="char:EOLhyphen"/>ſtles
+<pb n="41" facs="tcp:285:22"/>minde, to raze out all deuout obſer<g ref="char:EOLhyphen"/>uing of dayes quite,
+how comes it to paſſe, we celebrate Eaſter yeerely, at the circle of the
+yeere turning about?</p>
+               <p n="6">
+                  <note place="margin">
+                     <hi>Irenaeus.</hi>
+                  </note>6.
+<hi>Irenaeus</hi> had this <hi>cuſtome:</hi> His Epiſtle to <hi>Victor</hi>
+ſheweth it: to <hi>Victor,</hi> and to many more (ſaith
+<hi>Euſebius</hi>)<note place="margin">
+                     <hi>Euſeb. l.</hi> 5. <hi>c.</hi>
+26.</note> about that queſtion, (vnderſtand ſtill the queſtion of the
+time, not of the Feaſt.) A booke alſo we finde he wrote <hi>de
+Paſchate</hi> in the 115. queſt. in <hi>Iuſtin Martyr.</hi> So he will be
+for it, certeinly.</p>
+               <p n="7">
+                  <note place="margin">Seuen bookes then written for
+it.</note>7. And it is ſtrange, euen during the perſecution, how many
+bookes wee finde written, to deduce the cuſtome by. <hi rend="sup">1</hi>Beſide that of
+<hi>Irenaeus,</hi> 
+                  <note place="margin">
+                     <hi>Euſeb. l.</hi> 7. <hi>c.</hi>
+32.</note>
+                  <hi rend="sup">2</hi>One by <hi>Anatolius</hi> the great learned Biſhop of
+<hi>Laodicea:</hi> 
+                  <note place="margin">
+                     <hi>Hier. de Scrip.</hi> 43.</note>
+                  <hi rend="sup">3</hi>By
+<hi>The<g ref="char:EOLhyphen"/>ophilus</hi> Biſhop of <hi>Caeſarea,</hi> and 
+<note place="margin">
+                     <hi>Hieron. de. Scriptor.</hi> 44.</note>
+                  <hi rend="sup">4</hi>by
+<hi>Bacchyl<g ref="char:EOLhyphen"/>lus</hi> Biſhop of <hi>Corinth,</hi> either of them one. 
+<note place="margin">
+                     <hi>Ibidem</hi> 61.</note>
+                  <hi rend="sup">5</hi>Another by
+<hi>Hippolytus,</hi> that made vp the firſt cycle. Yet 
+<note place="margin">
+                     <hi>Ibidem</hi> 38.</note>
+                  <hi rend="sup">6</hi>another, by
+<hi>Clemens Alex<g ref="char:EOLhyphen"/>andrinus.</hi> And laſt, which indeed was firſt in time of
+all, two bookes 
+<note place="margin">
+                     <hi>Ibidem</hi> 24.</note>
+                  <hi rend="sup">7</hi>by the holy Martyr
+and Prophet <hi>Melito</hi> Biſhop of <hi>Sar<g ref="char:EOLhyphen"/>dis,</hi> (in the next Age to
+the Apoſtles them<g ref="char:EOLhyphen"/>ſelues) ſet forth by him (as he ſaith) at the time of
+the Feaſt, &amp; in the very holy dayes of it.</p>
+               <p>
+                  <pb n="42" facs="tcp:285:23"/>
+                  <note place="margin">7. Proofe. From Coun<g ref="char:EOLhyphen"/>cels
+in the perſecution.</note>
+                  <note place="margin">
+                     <hi>Euſeb. l.</hi> 5.
+<hi>c.</hi> 23. 
+<list>
+                        <item>1. <hi>Palaeſtine.</hi>
+                        </item>
+                        <item>2. <hi>Pontus.</hi>
+                        </item>
+                        <item>3. <hi>Oſroena.</hi>
+                        </item>
+                        <item>4. <hi>Italie.</hi>
+                        </item>
+                        <item>5. <hi>France.</hi>
+                        </item>
+                        <item>6. <hi>Grecia.</hi>
+                        </item>
+                        <item>7. <hi>Aſia minor.</hi>
+                        </item>
+                     </list>
+                  </note>Nay, there wanted not Councels then neither, and
+that in ſeuen ſeuerall parts of the world at once: all in the midſt of
+the feruor of the fiery tryall, when the Church (God wote) could but euill
+intend it. It was no time to contend, then. But it ſhewes, they made a matter
+of it, and no ſlight reckoning of the retaining it. Elſe might they haue
+ſlipt it, without any more adoe.</p>
+               <p>Enough (I trow) to ſhew, <hi>ſuch a cuſtom</hi> there was
+in all the <hi>Churches</hi> theſe parties liued in, which were all the
+Churches God then had. They muſt needs ſeeme <hi>contentious,</hi> that
+will contend againſt all theſe. I ſee not how they can ſcape the
+Apoſtles <hi>Si quis,</hi> that doe. And this I ſay, if ſome one example
+of ſome eminent man of worth, will ſerue to make an authoritie: If, that:
+Then this <hi>cloud of witneſſes,</hi> and thoſe, <hi rend="sup">1</hi>not perſons, but
+whole Councels and Churches: <hi rend="sup">2</hi>not in ſome one Region, but in diuers all the
+world ouer: <hi rend="sup">3</hi>and that not for one time, but ſo many Ages ſuc<g ref="char:EOLhyphen"/>ceſſiuely
+continued, from generation to generation: what manner of authority 
+<pb n="43" facs="tcp:285:23"/>ought that to bee? the greateſt ſure, and none greater,
+but of God himſelfe.</p>
+               <p n="1">
+                  <note place="margin">Proofes, That this cu<g ref="char:EOLhyphen"/>ſtome was
+A<g ref="char:EOLhyphen"/>poſtolique.</note>
+                  <note place="margin">1. Proofe by teſtimony.</note>Now to
+<hi>(Nos)</hi> that is, to the Apoſtles themſelues. 
+<note place="margin">
+                     <hi>Auguſtine.</hi>
+                  </note>Firſt, that it
+was a <hi>a cuſtome A<g ref="char:EOLhyphen"/>postolique</hi> and ſo taken, Saint
+<hi>Auguſtine</hi> is direct in his 118. Epiſtle to <hi>Ianuarius,</hi> who
+had purpoſely ſent to him, to know his o<g ref="char:EOLhyphen"/>pinion touching certaine
+queſtions, all of them about Eaſter. Thus ſaith he there. <hi>For ſuch
+things as come to vs not by writing, but by practiſe (and yet ſuch as are
+obſerued quite through the world) we are giuen to vn<g ref="char:EOLhyphen"/>derſtand, they come
+commended to vs, and were inſtituted either by the Apoſtles themſelues,
+or by generall Councels, whoſe authoritie hath euer beene accounted of as
+wholeſome in the Church.</hi> Now what be thoſe things ſo generally
+obſerued <hi>toto orbe terrarum?</hi> Theſe: that the <hi>Paſsion, the
+Reſurrection, the Aſcenſion of Chriſt, and the comming of the holy
+Ghoſt from heauen, anniuerſariâ ſolennitate celebrantur, are
+yeerely in ſolemne maner celebrated. And</hi> (ſaith he) <hi>if there be
+any beſide theſe:</hi> for theſe, are moſt cleare.</p>
+               <p>Firſt, he is cleere, It was the <hi>cuſtome of the
+Church,</hi> farre and wide the world through.<pb n="44" facs="tcp:285:24"/>Then, that it
+muſt either by the Apoſtles be inſtitute, or by ſome Councel. Not by
+any Councell: Many met about the time: about the Feaſt neuer any: that, not
+que<g ref="char:EOLhyphen"/>ſtioned at all: taken <hi>pro confeſſo</hi> euer, and ſo,
+Apoſtolique. They be his owne words (<hi>lib.</hi> 4. <hi>de Bapt. contra
+Donat. cap.</hi> 24.) <hi>If the whole Church obſerue any thing, not ha<g ref="char:EOLhyphen"/>uing
+beene ordained by ſome generall Councell, rectiſsimè creditur we are
+to beleeue, rectiſsimè, by as good right as any can be, right in the
+ſu<g ref="char:EOLhyphen"/>perlatiue, that it came to vs, nonniſi ab Apo<g ref="char:EOLhyphen"/>ſtolis, from the
+Apoſtles, and from none elſe,</hi> nor by any other way. So Saint
+<hi>Augustine</hi> is for <hi>nos habemus talem.</hi> So he held it.</p>
+               <p>
+                  <note place="margin">
+                     <hi>Conſtantine.</hi>
+                  </note>A hundred
+yeeres before him, <hi>Conſtan<g ref="char:EOLhyphen"/>tine</hi> is as direct in his Epiſtle <hi>ad
+omnes Eccle<g ref="char:EOLhyphen"/>ſias.</hi>
+                  <note place="margin">
+                     <hi>Euſeb. l.</hi> 3. <hi>vitae
+Conſtantini.</hi>
+                  </note> Many remarkeable things there are in that Epiſtle.
+<hi rend="sup">1</hi>
+                  <hi>The most holy Feaſt of Eaſter,</hi> foure times he calleth it. That
+is the good Emperours ſtyle. <hi rend="sup">2</hi>
+                  <hi>In ſo great a matter, in ſo High a
+feaſt of our Religion to diſagree
+<gap reason="foreign" resp="#OXF" extent="1 word">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> vt<g ref="char:EOLhyphen"/>terly vnlawfull.</hi> And
+<hi rend="sup">3</hi>
+                  <gap reason="foreign" resp="#OXF" extent="1 span">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>; <hi>what more honest? what
+more ſeemely, then that this Feaſt ſhould be inuiolably kept, by which,
+we hold our hopes of immortalitie?</hi> (Marke that reaſon well.)</p>
+               <p>
+                  <pb n="45" facs="tcp:285:24"/>But, for Apoſtolique: <hi>Bee it lawfull
+for vs Christians</hi> (ſayth he) <hi>reiecting the Iewiſh manner, That day
+<gap reason="foreign" resp="#OXF" extent="1 span">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, which day euer ſince the very
+firſt day of his paſſion, we haue to this preſent kept; to tranſmit
+the due obſeruing of it, to all ages to come.</hi> Marke the words.
+<hi rend="sup">1</hi>
+                  <hi>They had kept Easter from the first day of</hi> CHRISTS <hi>paſsion,
+till that preſent time.</hi> 
+                  <hi rend="sup">2</hi>And after that, <hi>We haue receiued it of our
+Sauiour.</hi> 
+                  <hi rend="sup">3</hi>And yet againe, <hi>which our Sauiour deliuered to vs.</hi> And
+con<g ref="char:EOLhyphen"/>cludes, that <hi rend="sup">4</hi>accordingly, <hi>when he came a<g ref="char:EOLhyphen"/>mong them, hee and they
+would keepe their Ea<g ref="char:EOLhyphen"/>ſter together.</hi> Nothing can be more full, that in
+his time this cuſtome was, and that it was reputed to haue come from the
+Apo<g ref="char:EOLhyphen"/>ſtles, as begun <hi>from the very day of Chriſts paſsion.</hi> Which,
+<hi>Leo</hi> ſhortly, but fully ex<g ref="char:EOLhyphen"/>preſſeth, <hi>Legalis quippe
+festiuitas dum muta<g ref="char:EOLhyphen"/>tur, impletur.</hi>
+                  <note place="margin">
+                     <hi>Leo Hom.</hi> 7.
+<hi>de Paſſione.</hi>
+                  </note> The legall Feaſt of the Paſſe<g ref="char:EOLhyphen"/>ouer, at
+the fulfilling of it, was changed, both at once. Fulfilled and changed, at one
+time, both. No diſtance betweene. And fulfilled (I am ſure) it was in the
+Apoſtles time, and ſo changed then alſo.</p>
+               <p n="2">
+                  <note place="margin">2. Proofe, by Storie.</note>If you will
+ſee it deduced in ſtorie, that<pb n="46" facs="tcp:285:25"/>may you too. Thus. Of
+himſelfe <hi>Irenaeus</hi> writeth,<note place="margin">
+                     <hi>Euſeb.</hi> 4.
+<hi>c.</hi> 14.</note> that he was brought vp in <hi>Aſia</hi> vn<g ref="char:EOLhyphen"/>der
+<hi>Polycarpus;</hi> and that hee (yong though he were) obſerued and
+remembred well all his courſe of life. And namely, how com<g ref="char:EOLhyphen"/>ming to
+<hi>Rome</hi> in <hi>Anicetus</hi> time, he kept his Eaſter there. Not when
+<hi>Anicetus</hi> kept it, but keepe it he did though. In the keeping they
+agreed: in the time they differed. Ei<g ref="char:EOLhyphen"/>ther held his owne.</p>
+               <p>
+                  <hi>Polycarpus</hi> then kept Eaſter. Now
+<hi>Poly<g ref="char:EOLhyphen"/>carpus,</hi> had liued and conuerſed with the Apoſtles, was made
+Biſhop by them, Bi<g ref="char:EOLhyphen"/>ſhop of <hi>Smyrna,</hi> (<hi>Irenaeus</hi> and
+<hi>Tertullian</hi> ſay it directly)<note place="margin">
+                     <hi>Iren. l.</hi> 3.
+<hi>c.</hi> 3. <hi>Tertull. de prae<g ref="char:EOLhyphen"/>ſcript. c.</hi> 32.</note> and hee is
+ſuppoſed to be the <hi>Angel of the Church of Smyrna,</hi> Reuel. 2.8. And
+<hi>Polycarpus</hi> (as ſayth <hi>Irenaeus</hi>)<note place="margin">
+                     <hi>Polycarpus</hi> kept Eaſter with S. <hi>Iohn</hi> and the
+reſt of the Apoſtles. <gap reason="foreign" resp="#OXF" extent="1 span">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</note>
+kept Ea<g ref="char:EOLhyphen"/>ſter with S. <hi>Iohn,</hi> and with the reſt of the Apoſtles,
+<hi>totidem verbis. Euſeb. l.</hi> 5. <hi>c.</hi> 26.</p>
+               <p>
+                  <hi>Polycrates</hi> in his Epiſtle there (in
+<hi>Euſe<g ref="char:EOLhyphen"/>bius</hi>) expreſly ſaith,<note place="margin">
+                     <hi>Euſeb.
+l.</hi> 5.14. S. Philip the Apoſtle kept it.</note> that S. <hi>Philip</hi>
+the Apo<g ref="char:EOLhyphen"/>ſtle kept it. If Saint <hi>Philip</hi> and S. <hi>Iohn</hi> (by name)
+If the reſt of the Apoſtles had it, then, <hi>nos habemus</hi> is true;
+then, is it Apo<g ref="char:EOLhyphen"/>ſtolique.</p>
+               <p n="3">
+                  <note place="margin">3. Proofe from the Lords day.</note>But
+yet wee haue a more ſure ground<pb n="47" facs="tcp:285:25"/>then all theſe: The
+LORDS DAY hath te<g ref="char:EOLhyphen"/>ſtimonie in Scripture,<note place="margin">Apoc. 1.10.</note>
+I inſiſt vpon that; that Eaſter day muſt needs be as ancient as it. For
+how came it to be the <hi>Lords day?</hi> but that, as it is in the Pſalme,
+<hi>the Lord made it?</hi>
+                  <note place="margin">Pſal. 1 8.8.</note> And why made
+he it? but becauſe on it, <hi>the Stone caſt aſide</hi> (that is CHRIST)
+<hi>was made the Head ſtone of the corner?</hi> that is, becauſe then the
+LORD roſe, becauſe his Reſurrection fell vpon it?<note place="margin">
+                     <hi>Aug. Ep.</hi> 119.13. <hi>Dies Dominicus Chriſtianis
+Re<g ref="char:EOLhyphen"/>ſurrectione Do<g ref="char:EOLhyphen"/>mini declaratus eſt, &amp; ex illo ha<g ref="char:EOLhyphen"/>bere caepit
+feſti<g ref="char:EOLhyphen"/>uitatem ſuam.</hi>
+                  </note>
+               </p>
+               <p>Now, what a thing were it, that all the Sundayes in the yere
+that are but abſtracts (as it were) of this day (the very day of the
+Reſurrection) that they ſhould be kept: and this day, the day it ſelfe,
+the prototype and archetype of them all, ſhould not be kept, but laide
+aſide quite, and be cleane forgotten? That, the day in the weeke we ſhould
+keepe; and the day in the moneth it ſelfe, and returne of the yeere, we
+ſhould not keepe? Euen of very congruitie, it is to be as they, and
+ſomewhat more.</p>
+               <p>Take example by our ſelues. For His Maieſties deliuerance
+the fift of <hi>August:</hi> for His Maieſties, and ours the fift of
+<hi>No<g ref="char:EOLhyphen"/>uember</hi> (being Tueſday both) for theſe a<pb n="48" facs="tcp:285:26"/>kind
+of remembrance we keepe, on Tueſ<g ref="char:EOLhyphen"/>day euery weeke in the yeere. But when by
+courſe of the yeere in their ſeuerall mo<g ref="char:EOLhyphen"/>nethes, the very originall dayes
+themſelues come about: ſhal we not? do we not cele<g ref="char:EOLhyphen"/>brate them in much more
+ſolemne maner? what queſtion is there? weigh them well, you will finde the
+caſe alike. One cannot be, but the other alſo muſt bee
+Apoſto<g ref="char:EOLhyphen"/>lique.</p>
+               <p n="8">
+                  <note place="margin">8. Proofe of the Churches cuſtome for
+Eaſter</note>
+                  <note place="margin">1 The cuſtom of Baptiſme.</note>1 For the
+laſt proofe I haue yet reſerued, one: or rather, three in one. <hi rend="sup">1</hi>The
+cuſtom of Baptiſme, knowen to haue beene mini<g ref="char:EOLhyphen"/>ſtred as vpon that day, all
+the Primitiue Church through. A thing ſo knowen, as their Homilies <hi>de
+Baptiſmo</hi> were moſt vp<g ref="char:EOLhyphen"/>on that day. Saint <hi>Baſils</hi> I name. In
+his vpon Eaſter day, he ſhewes the cuſtome of baptizing then, and the
+reaſon for it.</p>
+               <p>
+                  <note place="margin">2 The cuſtom of the cen<g ref="char:EOLhyphen"/>ſures then
+de<g ref="char:EOLhyphen"/>termining.</note>2 The vſe of the keyes, at that time ſpe<g ref="char:EOLhyphen"/>cially. Then,
+were the cenſures inflicted: then were they releaſed. <hi rend="sup">1</hi>Inflicted:
+A<g ref="char:EOLhyphen"/>gainſt that time, did S. <hi>Paul</hi> cut off the in<g ref="char:EOLhyphen"/>ceſtuous perſon,
+that a litle <hi>leuen</hi> might not <hi>ſwore</hi> them all. Euen againſt
+the time that 
+<note place="margin">1 Cor. 5.7.8.</note>
+                  <hi>Chriſt our
+Paſſeouer was offered, and they there<g ref="char:EOLhyphen"/>fore<pb n="49" facs="tcp:285:26"/>to hold this
+Feast.</hi> 
+                  <note place="margin">Can. 5.</note>
+                  <hi rend="sup">2</hi>Releaſed. So you ſhall
+finde the Councell of <hi>Ancyra</hi> (elder then that of <hi>Nice</hi>) order,
+the cenſures ſhould determine all, endure no longer then the <hi>Great
+Day</hi> (ſo in their common ſpeech they termed Eaſter) and then, all to
+be reſtored. 
+<note place="margin">Can 5.</note>
+                  <hi rend="sup">3</hi>To which purpoſe the
+Cou<g ref="char:cmbAbbrStroke">̄</g>
+                  <g ref="char:EOLhyphen"/>cell of <hi>Nice</hi> tooke order, there ſhould be in Lent a Synode
+yeerely to this end: that by it all quarels being taken vp, and all things
+ſet ſtreight, they might be in better caſe, to come with their oblation
+at Eaſter, to the Sacrament.</p>
+               <p n="3">
+                  <note place="margin">3 The cuſtome of a
+Commu<g ref="char:EOLhyphen"/>nion.</note>And laſt, by the neuer broken cuſtome of a ſolemne
+Euchariſt, euer vpon this day. <hi>Origen</hi> in his ſeuenth vpon
+<hi>Exodus,</hi> he ſaith, Our Eaſter day farre paſſeth the Iewiſh
+Eaſter. They had no <hi>Manna</hi> on theirs: (The Paſſeouer was eaten in
+<hi>E<g ref="char:EOLhyphen"/>gypt, Manna</hi> came not till they were in the wilderneſſe:) But we
+(ſaith he) we neuer keepe our Paſſeouer, but wee are ſure of
+<hi>Manna</hi> vpon it, the <hi>true Manna, the bread of life that came down
+fro<g ref="char:cmbAbbrStroke">̄</g> Heauen.</hi>
+                  <note place="margin">Ioh. 6.50,58.</note> For they had no
+Eaſter then without a Communion.</p>
+               <p>
+                  <hi>Leo</hi> ioynes both;<note place="margin">
+                     <hi>Hom.</hi> 6.
+<hi>de Quadrag.</hi>
+                  </note> (hee might well all<pb n="50" facs="tcp:285:27"/>three.)
+<hi>Paſchalis quippe ſolennitatis hoc eſt pro<g ref="char:EOLhyphen"/>prium, This is a peculiar
+that Easter day hath, vt in eâ tota Eccleſia, remiſsione gaudeat
+pecca<g ref="char:EOLhyphen"/>torum: That on it, all the whole Church obtai<g ref="char:EOLhyphen"/>neth remiſsion of their
+ſinnes.</hi> One part, <hi>qui ſacro Baptiſmate renaſcuntur, by vertue
+of the ſolemne Baptiſme then miniſtred: The reſt, by benefit of the
+Eucharist they then receiue; ad rubiginem mortalitatis</hi> (it is his terme)
+<hi>to the ſcouring off the ruſt which our mortalitie gathe<g ref="char:EOLhyphen"/>reth by the
+ſinnes and errors of the whole yeere.</hi>
+               </p>
+            </div>
+            <div type="conclusion">
+               <p>I will conclude all, with the words which Saint
+<hi>Ambroſe</hi> concludes his 83. (his Paſchall Epiſtle, with,) to the
+Biſhops of <hi>Aemilia: Ergo, cum tot veritatis indicia concurrant, iuxta
+maiorum exemplum, Fe<g ref="char:EOLhyphen"/>ſtum hoc publicae ſalutis, laeti exultanteſque
+ce<g ref="char:EOLhyphen"/>lebremus. Since then there be ſo many proofes for this truth that thus
+meet: according to the example of our forefathers, let vs with ioy and
+gladneſſe keepe this Feaſt of our common ſalua<g ref="char:EOLhyphen"/>tion. How? Sumamus
+ſpiritu feruenti Sacra<g ref="char:EOLhyphen"/>mentum in azymis ſinceritatis. Let vs receiue the
+holy Sacrament, with the ſweet bread of ſin<g ref="char:EOLhyphen"/>ceritie. Postes nostros, vbi
+eſt oſtium verbi, ſanguine Chriſti, in fide paſsionis, coloremus. 
+<pb n="51" facs="tcp:285:27" rendition="simple:additions"/>The poſts of the doore of our mouth</hi> (that is)
+<hi>our lippes, let vs dy them with the Blood of</hi> Chriſt, <hi>in the
+faith of his bleſſed Paſsion.</hi> Enſuing the ſteppes of the
+Apoſtles and the Churches of God <hi>(all:)</hi> with whom ioyning in both,
+let vs expect the bleſſing of GOD vp<g ref="char:EOLhyphen"/>on vs. &amp;c.</p>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>LONDON Printed by IOHN BILL, M.DC.XVIII.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
